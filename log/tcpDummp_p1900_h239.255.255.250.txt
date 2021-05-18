@@ -1,0 +1,3667 @@
+21:32:22.103822 IP (tos 0x0, ttl 4, id 32640, offset 0, flags [none], proto UDP (17), length 365)
+    kellerplatte.hdus36b.local.35124 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 337
+..^.......^...E..m.................4.l.YW.NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=100
+LOCATION: http://192.168.1.163:49152/nasdevice.xml
+NT: upnp:rootdevice
+NTS: ssdp:alive
+SERVER: Linux/2.6.32.11-svn70860, UPnP/1.0, Portable SDK for UPnP devices/1.6.6
+X-User-Agent: redsonic
+USN: uuid:73656761-7465-7375-636b-0090a9b35e88::upnp:rootdevice
+
+
+21:32:22.204380 IP (tos 0x0, ttl 4, id 32641, offset 0, flags [none], proto UDP (17), length 374)
+    kellerplatte.hdus36b.local.35124 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 346
+..^.......^...E..v.................4.l.b.PNOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=100
+LOCATION: http://192.168.1.163:49152/nasdevice.xml
+NT: uuid:73656761-7465-7375-636b-0090a9b35e88
+NTS: ssdp:alive
+SERVER: Linux/2.6.32.11-svn70860, UPnP/1.0, Portable SDK for UPnP devices/1.6.6
+X-User-Agent: redsonic
+USN: uuid:73656761-7465-7375-636b-0090a9b35e88
+
+
+21:32:22.304956 IP (tos 0x0, ttl 4, id 32642, offset 0, flags [none], proto UDP (17), length 405)
+    kellerplatte.hdus36b.local.35124 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 377
+..^.......^...E....................4.l....NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=100
+LOCATION: http://192.168.1.163:49152/nasdevice.xml
+NT: urn:schemas-upnp-org:device:WdNAS:1
+NTS: ssdp:alive
+SERVER: Linux/2.6.32.11-svn70860, UPnP/1.0, Portable SDK for UPnP devices/1.6.6
+X-User-Agent: redsonic
+USN: uuid:73656761-7465-7375-636b-0090a9b35e88::urn:schemas-upnp-org:device:WdNAS:1
+
+
+21:32:22.405489 IP (tos 0x0, ttl 4, id 32643, offset 0, flags [none], proto UDP (17), length 415)
+    kellerplatte.hdus36b.local.37894 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 387
+..^.......^...E......................l...iNOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=100
+LOCATION: http://192.168.1.163:49152/nasdevice.xml
+NT: urn:schemas-microsoft-com:service:NULL:1
+NTS: ssdp:alive
+SERVER: Linux/2.6.32.11-svn70860, UPnP/1.0, Portable SDK for UPnP devices/1.6.6
+X-User-Agent: redsonic
+USN: uuid:73656761-7465-7375-636b-0090a9b35e88::urn:schemas-microsoft-com:service:NULL:1
+
+
+21:32:22.608239 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 410)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 382
+..^....yY.
+...E.....@................l....NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: upnp:rootdevice
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af0::upnp:rootdevice
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:32:22.608242 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 482)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 454
+..^....yY.
+...E.....@....g...........l.._.NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: urn:schemas-upnp-org:device:InternetGatewayDevice:1
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af0::urn:schemas-upnp-org:device:InternetGatewayDevice:1
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:32:22.608243 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 419)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 391
+..^....yY.
+...E.....@................l....NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af0
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af0
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:32:22.608244 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 478)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 450
+..^....yY.
+...E.....@....k...........l....NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: urn:schemas-upnp-org:device:WANConnectionDevice:1
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af2::urn:schemas-upnp-org:device:WANConnectionDevice:1
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:32:22.608365 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 419)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 391
+..^....yY.
+...E.....@................l....NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af2
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af2
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:32:22.608368 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 458)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 430
+..^....yY.
+...E.....@................l...	NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: urn:schemas-upnp-org:device:WANDevice:1
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af1::urn:schemas-upnp-org:device:WANDevice:1
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:32:22.608369 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 419)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 391
+..^....yY.
+...E.....@................l....NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af1
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af1
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:32:22.608685 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 490)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 462
+..^....yY.
+...E.....@...._...........l...BNOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: urn:schemas-upnp-org:service:WANCommonInterfaceConfig:1
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af1::urn:schemas-upnp-org:service:WANCommonInterfaceConfig:1
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:32:22.608687 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 472)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 444
+..^....yY.
+...E.....@....q...........l..J.NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: urn:schemas-upnp-org:service:WANIPConnection:1
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af2::urn:schemas-upnp-org:service:WANIPConnection:1
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:32:22.608688 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 474)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 446
+..^....yY.
+...E.....@....o...........l..c.NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: urn:schemas-upnp-org:service:WANPPPConnection:1
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af2::urn:schemas-upnp-org:service:WANPPPConnection:1
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:32:22.608689 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 474)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 446
+..^....yY.
+...E.....@....o...........l...XNOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: urn:schemas-upnp-org:service:Layer3Forwarding:1
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af0::urn:schemas-upnp-org:service:Layer3Forwarding:1
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:32:22.859438 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 474)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 446
+..^....yY.
+...E.....@....o...........l...XNOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: urn:schemas-upnp-org:service:Layer3Forwarding:1
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af0::urn:schemas-upnp-org:service:Layer3Forwarding:1
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:32:22.859440 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 474)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 446
+..^....yY.
+...E.....@....o...........l..c.NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: urn:schemas-upnp-org:service:WANPPPConnection:1
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af2::urn:schemas-upnp-org:service:WANPPPConnection:1
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:32:22.859441 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 472)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 444
+..^....yY.
+...E.....@....q...........l..J.NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: urn:schemas-upnp-org:service:WANIPConnection:1
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af2::urn:schemas-upnp-org:service:WANIPConnection:1
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:32:22.859442 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 490)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 462
+..^....yY.
+...E.....@...._...........l...BNOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: urn:schemas-upnp-org:service:WANCommonInterfaceConfig:1
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af1::urn:schemas-upnp-org:service:WANCommonInterfaceConfig:1
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:32:22.859444 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 419)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 391
+..^....yY.
+...E.....@................l....NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af1
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af1
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:32:22.859553 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 458)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 430
+..^....yY.
+...E.....@................l...	NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: urn:schemas-upnp-org:device:WANDevice:1
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af1::urn:schemas-upnp-org:device:WANDevice:1
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:32:22.859559 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 419)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 391
+..^....yY.
+...E.....@................l....NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af2
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af2
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:32:22.859560 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 478)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 450
+..^....yY.
+...E.....@....k...........l....NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: urn:schemas-upnp-org:device:WANConnectionDevice:1
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af2::urn:schemas-upnp-org:device:WANConnectionDevice:1
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:32:22.859560 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 419)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 391
+..^....yY.
+...E.....@................l....NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af0
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af0
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:32:22.859707 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 482)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 454
+..^....yY.
+...E.....@....g...........l.._.NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: urn:schemas-upnp-org:device:InternetGatewayDevice:1
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af0::urn:schemas-upnp-org:device:InternetGatewayDevice:1
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:32:22.859709 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 410)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 382
+..^....yY.
+...E.....@................l....NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: upnp:rootdevice
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af0::upnp:rootdevice
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:32:27.104562 IP (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 371)
+    router.asus.com.ssdp > 239.255.255.250.ssdp: [udp sum ok] UDP, length 343
+..^....yY.
+...E..s..@..............l.l._.LNOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+Cache-Control: max-age=600
+Location: http://192.168.1.1:1990/WFADevice.xml
+NTS: ssdp:alive
+Server: POSIX, UPnP/1.0 UPnP Stack/7.14.124.5204
+NT: urn:schemas-wifialliance-org:device:WFADevice:1
+USN: uuid:95846111-088e-218c-6ba4-d96c5c241156::urn:schemas-wifialliance-org:device:WFADevice:1
+
+
+21:32:27.104564 IP (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 316)
+    router.asus.com.ssdp > 239.255.255.250.ssdp: [udp sum ok] UDP, length 288
+..^....yY.
+...E..<..@..............l.l.(..NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+Cache-Control: max-age=600
+Location: http://192.168.1.1:1990/WFADevice.xml
+NTS: ssdp:alive
+Server: POSIX, UPnP/1.0 UPnP Stack/7.14.124.5204
+NT: uuid:95846111-088e-218c-6ba4-d96c5c241156
+USN: uuid:95846111-088e-218c-6ba4-d96c5c241156
+
+
+21:32:27.104658 IP (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 307)
+    router.asus.com.ssdp > 239.255.255.250.ssdp: [udp sum ok] UDP, length 279
+..^....yY.
+...E..3..@..............l.l..D!NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+Cache-Control: max-age=600
+Location: http://192.168.1.1:1990/WFADevice.xml
+NTS: ssdp:alive
+Server: POSIX, UPnP/1.0 UPnP Stack/7.14.124.5204
+NT: upnp:rootdevice
+USN: uuid:95846111-088e-218c-6ba4-d96c5c241156::upnp:rootdevice
+
+
+21:32:27.104917 IP (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 381)
+    router.asus.com.ssdp > 239.255.255.250.ssdp: [udp sum ok] UDP, length 353
+..^....yY.
+...E..}..@..............l.l.i..NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+Cache-Control: max-age=600
+Location: http://192.168.1.1:1990/WFADevice.xml
+NTS: ssdp:alive
+Server: POSIX, UPnP/1.0 UPnP Stack/7.14.124.5204
+NT: urn:schemas-wifialliance-org:service:WFAWLANConfig:1
+USN: uuid:95846111-088e-218c-6ba4-d96c5c241156::urn:schemas-wifialliance-org:service:WFAWLANConfig:1
+
+
+21:32:31.583269 IP (tos 0x0, ttl 2, id 47224, offset 0, flags [DF], proto UDP (17), length 319)
+    amazon-60d8ad8cd.hdus36b.local.54368 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 291
+..^......Y....E..?.x@....,...g.....`.l.+..NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+Location: http://192.168.1.103:3600/ssdp/device-desc.xml
+Cache-Control: max-age=1800
+Server: UPnP/1.0 DLNADOC/1.50 AirReceiver/1.0.5.13
+NTS: ssdp:alive
+USN: uuid:98747d42-ddfd-47ba-bdd4-94d396568c1f::upnp:rootdevice
+NT: upnp:rootdevice
+
+
+21:32:31.633610 IP (tos 0x0, ttl 2, id 47227, offset 0, flags [DF], proto UDP (17), length 328)
+    amazon-60d8ad8cd.hdus36b.local.54368 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 300
+..^......Y....E..H.{@.... ...g.....`.l.4..NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+Location: http://192.168.1.103:3600/ssdp/device-desc.xml
+Cache-Control: max-age=1800
+Server: UPnP/1.0 DLNADOC/1.50 AirReceiver/1.0.5.13
+NTS: ssdp:alive
+USN: uuid:98747d42-ddfd-47ba-bdd4-94d396568c1f
+NT: uuid:98747d42-ddfd-47ba-bdd4-94d396568c1f
+
+
+21:32:31.684155 IP (tos 0x0, ttl 2, id 47232, offset 0, flags [DF], proto UDP (17), length 365)
+    amazon-60d8ad8cd.hdus36b.local.54368 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 337
+..^......Y....E..m..@........g.....`.l.YC\NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+Location: http://192.168.1.103:3600/ssdp/device-desc.xml
+Cache-Control: max-age=1800
+Server: UPnP/1.0 DLNADOC/1.50 AirReceiver/1.0.5.13
+NTS: ssdp:alive
+USN: uuid:98747d42-ddfd-47ba-bdd4-94d396568c1f::urn:dial-multiscreen-org:device:dial:1
+NT: urn:dial-multiscreen-org:device:dial:1
+
+
+21:32:31.734623 IP (tos 0x0, ttl 2, id 47237, offset 0, flags [DF], proto UDP (17), length 367)
+    amazon-60d8ad8cd.hdus36b.local.54368 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 339
+..^......Y....E..o..@........g.....`.l.[..NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+Location: http://192.168.1.103:3600/ssdp/device-desc.xml
+Cache-Control: max-age=1800
+Server: UPnP/1.0 DLNADOC/1.50 AirReceiver/1.0.5.13
+NTS: ssdp:alive
+USN: uuid:98747d42-ddfd-47ba-bdd4-94d396568c1f::urn:dial-multiscreen-org:service:dial:1
+NT: urn:dial-multiscreen-org:service:dial:1
+
+
+21:32:36.925497 IP (tos 0x0, ttl 2, id 47623, offset 0, flags [DF], proto UDP (17), length 299)
+    amazon-60d8ad8cd.hdus36b.local.59634 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 271
+..^......Y....E..+..@........g.......l....NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+Location: http://192.168.1.103:3500/
+Cache-Control: max-age=1800
+Server: UPnP/1.0 DLNADOC/1.50 AirReceiver/1.0.5.13
+NTS: ssdp:alive
+USN: uuid:3125d70f-76d6-4171-a5db-2ba0c7bbef36::upnp:rootdevice
+NT: upnp:rootdevice
+
+
+21:32:36.975890 IP (tos 0x0, ttl 2, id 47626, offset 0, flags [DF], proto UDP (17), length 308)
+    amazon-60d8ad8cd.hdus36b.local.59634 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 280
+..^......Y....E..4.
+@........g.......l. .KNOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+Location: http://192.168.1.103:3500/
+Cache-Control: max-age=1800
+Server: UPnP/1.0 DLNADOC/1.50 AirReceiver/1.0.5.13
+NTS: ssdp:alive
+USN: uuid:3125d70f-76d6-4171-a5db-2ba0c7bbef36
+NT: uuid:3125d70f-76d6-4171-a5db-2ba0c7bbef36
+
+
+21:32:37.026222 IP (tos 0x0, ttl 2, id 47629, offset 0, flags [DF], proto UDP (17), length 355)
+    amazon-60d8ad8cd.hdus36b.local.59634 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 327
+..^......Y....E..c..@....s...g.......l.O.yNOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+Location: http://192.168.1.103:3500/
+Cache-Control: max-age=1800
+Server: UPnP/1.0 DLNADOC/1.50 AirReceiver/1.0.5.13
+NTS: ssdp:alive
+USN: uuid:3125d70f-76d6-4171-a5db-2ba0c7bbef36::urn:schemas-upnp-org:device:MediaRenderer:1
+NT: urn:schemas-upnp-org:device:MediaRenderer:1
+
+
+21:32:37.076733 IP (tos 0x0, ttl 2, id 47631, offset 0, flags [DF], proto UDP (17), length 353)
+    amazon-60d8ad8cd.hdus36b.local.59634 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 325
+..^......Y....E..a..@....s...g.......l.M+]NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+Location: http://192.168.1.103:3500/
+Cache-Control: max-age=1800
+Server: UPnP/1.0 DLNADOC/1.50 AirReceiver/1.0.5.13
+NTS: ssdp:alive
+USN: uuid:3125d70f-76d6-4171-a5db-2ba0c7bbef36::urn:schemas-upnp-org:service:AVTransport:1
+NT: urn:schemas-upnp-org:service:AVTransport:1
+
+
+21:32:37.127097 IP (tos 0x0, ttl 2, id 47635, offset 0, flags [DF], proto UDP (17), length 365)
+    amazon-60d8ad8cd.hdus36b.local.59634 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 337
+..^......Y....E..m..@....c...g.......l.Y..NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+Location: http://192.168.1.103:3500/
+Cache-Control: max-age=1800
+Server: UPnP/1.0 DLNADOC/1.50 AirReceiver/1.0.5.13
+NTS: ssdp:alive
+USN: uuid:3125d70f-76d6-4171-a5db-2ba0c7bbef36::urn:schemas-upnp-org:service:ConnectionManager:1
+NT: urn:schemas-upnp-org:service:ConnectionManager:1
+
+
+21:32:37.178991 IP (tos 0x0, ttl 2, id 47638, offset 0, flags [DF], proto UDP (17), length 363)
+    amazon-60d8ad8cd.hdus36b.local.59634 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 335
+..^......Y....E..k..@....b...g.......l.W.~NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+Location: http://192.168.1.103:3500/
+Cache-Control: max-age=1800
+Server: UPnP/1.0 DLNADOC/1.50 AirReceiver/1.0.5.13
+NTS: ssdp:alive
+USN: uuid:3125d70f-76d6-4171-a5db-2ba0c7bbef36::urn:schemas-upnp-org:service:RenderingControl:1
+NT: urn:schemas-upnp-org:service:RenderingControl:1
+
+
+21:32:39.544720 IP (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 297)
+    192.168.122.1.61000 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 269
+..^.....yn....E..)..@...K ..z......H.l....NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=1800
+LOCATION: http://192.168.122.1:61000/scalarwebapi_dd.xml
+NT: upnp:rootdevice
+NTS: ssdp:alive
+SERVER: UPnP/1.0 MINT-X/1.8.1
+USN: uuid:000000001000-1010-8000-CEC0796EE299::upnp:rootdevice
+
+
+21:32:39.545580 IP (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 305)
+    192.168.122.1.61000 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 277
+..^.....yn....E..1..@...K...z......H.l...:NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=1800
+LOCATION: http://192.168.122.1:61000/scalarwebapi_dd.xml
+NT: uuid:000000001000-1010-8000-CEC0796EE299
+NTS: ssdp:alive
+SERVER: UPnP/1.0 MINT-X/1.8.1
+USN: uuid:000000001000-1010-8000-CEC0796EE299
+
+
+21:32:39.647365 IP (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 337)
+    192.168.122.1.61000 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 309
+..^.....yn....E..Q..@...J...z......H.l.=U.NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=1800
+LOCATION: http://192.168.122.1:61000/scalarwebapi_dd.xml
+NT: urn:schemas-upnp-org:device:Basic:1
+NTS: ssdp:alive
+SERVER: UPnP/1.0 MINT-X/1.8.1
+USN: uuid:000000001000-1010-8000-CEC0796EE299::urn:schemas-upnp-org:device:Basic:1
+
+
+21:32:39.647998 IP (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 353)
+    192.168.122.1.61000 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 325
+..^.....yn....E..a..@...J...z......H.l.M..NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=1800
+LOCATION: http://192.168.122.1:61000/scalarwebapi_dd.xml
+NT: urn:schemas-sony-com:service:ScalarWebAPI:1
+NTS: ssdp:alive
+SERVER: UPnP/1.0 MINT-X/1.8.1
+USN: uuid:000000001000-1010-8000-CEC0796EE299::urn:schemas-sony-com:service:ScalarWebAPI:1
+
+
+21:32:39.648618 IP (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 357)
+    192.168.122.1.61000 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 329
+..^.....yn....E..e..@...J...z......H.l.Q.BNOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=1800
+LOCATION: http://192.168.122.1:61000/scalarwebapi_dd.xml
+NT: urn:schemas-sony-com:service:DigitalImaging:1
+NTS: ssdp:alive
+SERVER: UPnP/1.0 MINT-X/1.8.1
+USN: uuid:000000001000-1010-8000-CEC0796EE299::urn:schemas-sony-com:service:DigitalImaging:1
+
+
+21:32:39.749597 IP (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 297)
+    192.168.122.1.61000 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 269
+..^.....yn....E..)..@...K ..z......H.l....NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=1800
+LOCATION: http://192.168.122.1:61000/scalarwebapi_dd.xml
+NT: upnp:rootdevice
+NTS: ssdp:alive
+SERVER: UPnP/1.0 MINT-X/1.8.1
+USN: uuid:000000001000-1010-8000-CEC0796EE299::upnp:rootdevice
+
+
+21:32:39.851927 IP (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 305)
+    192.168.122.1.61000 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 277
+..^.....yn....E..1..@...K...z......H.l...:NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=1800
+LOCATION: http://192.168.122.1:61000/scalarwebapi_dd.xml
+NT: uuid:000000001000-1010-8000-CEC0796EE299
+NTS: ssdp:alive
+SERVER: UPnP/1.0 MINT-X/1.8.1
+USN: uuid:000000001000-1010-8000-CEC0796EE299
+
+
+21:32:39.852612 IP (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 337)
+    192.168.122.1.61000 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 309
+..^.....yn....E..Q..@...J...z......H.l.=U.NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=1800
+LOCATION: http://192.168.122.1:61000/scalarwebapi_dd.xml
+NT: urn:schemas-upnp-org:device:Basic:1
+NTS: ssdp:alive
+SERVER: UPnP/1.0 MINT-X/1.8.1
+USN: uuid:000000001000-1010-8000-CEC0796EE299::urn:schemas-upnp-org:device:Basic:1
+
+
+21:32:39.853272 IP (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 353)
+    192.168.122.1.61000 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 325
+..^.....yn....E..a..@...J...z......H.l.M..NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=1800
+LOCATION: http://192.168.122.1:61000/scalarwebapi_dd.xml
+NT: urn:schemas-sony-com:service:ScalarWebAPI:1
+NTS: ssdp:alive
+SERVER: UPnP/1.0 MINT-X/1.8.1
+USN: uuid:000000001000-1010-8000-CEC0796EE299::urn:schemas-sony-com:service:ScalarWebAPI:1
+
+
+21:32:39.954426 IP (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 357)
+    192.168.122.1.61000 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 329
+..^.....yn....E..e..@...J...z......H.l.Q.BNOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=1800
+LOCATION: http://192.168.122.1:61000/scalarwebapi_dd.xml
+NT: urn:schemas-sony-com:service:DigitalImaging:1
+NTS: ssdp:alive
+SERVER: UPnP/1.0 MINT-X/1.8.1
+USN: uuid:000000001000-1010-8000-CEC0796EE299::urn:schemas-sony-com:service:DigitalImaging:1
+
+
+21:32:42.105060 IP (tos 0x0, ttl 4, id 32644, offset 0, flags [none], proto UDP (17), length 365)
+    kellerplatte.hdus36b.local.54316 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 337
+..^.......^...E..m.................,.l.Y..NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=100
+LOCATION: http://192.168.1.163:49152/nasdevice.xml
+NT: upnp:rootdevice
+NTS: ssdp:alive
+SERVER: Linux/2.6.32.11-svn70860, UPnP/1.0, Portable SDK for UPnP devices/1.6.6
+X-User-Agent: redsonic
+USN: uuid:73656761-7465-7375-636b-0090a9b35e88::upnp:rootdevice
+
+
+21:32:42.205635 IP (tos 0x0, ttl 4, id 32645, offset 0, flags [none], proto UDP (17), length 374)
+    kellerplatte.hdus36b.local.54316 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 346
+..^.......^...E..v.................,.l.bbXNOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=100
+LOCATION: http://192.168.1.163:49152/nasdevice.xml
+NT: uuid:73656761-7465-7375-636b-0090a9b35e88
+NTS: ssdp:alive
+SERVER: Linux/2.6.32.11-svn70860, UPnP/1.0, Portable SDK for UPnP devices/1.6.6
+X-User-Agent: redsonic
+USN: uuid:73656761-7465-7375-636b-0090a9b35e88
+
+
+21:32:42.305875 IP (tos 0x0, ttl 4, id 32646, offset 0, flags [none], proto UDP (17), length 405)
+    kellerplatte.hdus36b.local.54316 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 377
+..^.......^...E....................,.l..r.NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=100
+LOCATION: http://192.168.1.163:49152/nasdevice.xml
+NT: urn:schemas-upnp-org:device:WdNAS:1
+NTS: ssdp:alive
+SERVER: Linux/2.6.32.11-svn70860, UPnP/1.0, Portable SDK for UPnP devices/1.6.6
+X-User-Agent: redsonic
+USN: uuid:73656761-7465-7375-636b-0090a9b35e88::urn:schemas-upnp-org:device:WdNAS:1
+
+
+21:32:42.406172 IP (tos 0x0, ttl 4, id 32647, offset 0, flags [none], proto UDP (17), length 415)
+    kellerplatte.hdus36b.local.59210 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 387
+..^.......^...E....................J.l...$NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=100
+LOCATION: http://192.168.1.163:49152/nasdevice.xml
+NT: urn:schemas-microsoft-com:service:NULL:1
+NTS: ssdp:alive
+SERVER: Linux/2.6.32.11-svn70860, UPnP/1.0, Portable SDK for UPnP devices/1.6.6
+X-User-Agent: redsonic
+USN: uuid:73656761-7465-7375-636b-0090a9b35e88::urn:schemas-microsoft-com:service:NULL:1
+
+
+21:32:44.744136 IP (tos 0x0, ttl 1, id 11223, offset 0, flags [DF], proto UDP (17), length 195)
+    raspberry.hdus36b.local.44645 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 167
+..^.....2
+yT..E...+.@....{...5.....e.l..}.M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Chromium/84.0.4147.141 Linux
+
+
+21:32:45.723692 IP (tos 0x0, ttl 1, id 11321, offset 0, flags [DF], proto UDP (17), length 195)
+    raspberry.hdus36b.local.44645 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 167
+..^.....2
+yT..E...,9@........5.....e.l..}.M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Chromium/84.0.4147.141 Linux
+
+
+21:32:46.724445 IP (tos 0x0, ttl 1, id 11328, offset 0, flags [DF], proto UDP (17), length 195)
+    raspberry.hdus36b.local.44645 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 167
+..^.....2
+yT..E...,@@........5.....e.l..}.M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Chromium/84.0.4147.141 Linux
+
+
+21:32:47.725566 IP (tos 0x0, ttl 1, id 11377, offset 0, flags [DF], proto UDP (17), length 195)
+    raspberry.hdus36b.local.44645 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 167
+..^.....2
+yT..E...,q@........5.....e.l..}.M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Chromium/84.0.4147.141 Linux
+
+
+21:32:56.378650 IP (tos 0x0, ttl 4, id 32648, offset 0, flags [none], proto UDP (17), length 332)
+    kellerplatte.hdus36b.local.ssdp > 239.255.255.250.ssdp: [udp sum ok] UDP, length 304
+..^.......^...E..L.................l.l.8Z.NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=1810
+LOCATION: http://192.168.1.163:9000/DeviceDescription.xml
+NT: uuid:7076436f-6e65-1063-8074-0090a9b35e88
+NTS: ssdp:alive
+SERVER: Linux/2.x.x, UPnP/1.0, pvConnect UPnP SDK/1.0
+USN: uuid:7076436f-6e65-1063-8074-0090a9b35e88
+
+
+21:32:56.389234 IP (tos 0x0, ttl 4, id 32649, offset 0, flags [none], proto UDP (17), length 323)
+    kellerplatte.hdus36b.local.ssdp > 239.255.255.250.ssdp: [udp sum ok] UDP, length 295
+..^.......^...E..C.................l.l./..NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=1810
+LOCATION: http://192.168.1.163:9000/DeviceDescription.xml
+NT: upnp:rootdevice
+NTS: ssdp:alive
+SERVER: Linux/2.x.x, UPnP/1.0, pvConnect UPnP SDK/1.0
+USN: uuid:7076436f-6e65-1063-8074-0090a9b35e88::upnp:rootdevice
+
+
+21:32:56.399610 IP (tos 0x0, ttl 4, id 32650, offset 0, flags [none], proto UDP (17), length 375)
+    kellerplatte.hdus36b.local.ssdp > 239.255.255.250.ssdp: [udp sum ok] UDP, length 347
+..^.......^...E..w.................l.l.c.	NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=1810
+LOCATION: http://192.168.1.163:9000/DeviceDescription.xml
+NT: urn:schemas-upnp-org:device:MediaServer:1
+NTS: ssdp:alive
+SERVER: Linux/2.x.x, UPnP/1.0, pvConnect UPnP SDK/1.0
+USN: uuid:7076436f-6e65-1063-8074-0090a9b35e88::urn:schemas-upnp-org:device:MediaServer:1
+
+
+21:32:56.410047 IP (tos 0x0, ttl 4, id 32651, offset 0, flags [none], proto UDP (17), length 387)
+    kellerplatte.hdus36b.local.ssdp > 239.255.255.250.ssdp: [udp sum ok] UDP, length 359
+..^.......^...E....................l.l.o.4NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=1810
+LOCATION: http://192.168.1.163:9000/DeviceDescription.xml
+NT: urn:schemas-upnp-org:service:ContentDirectory:1
+NTS: ssdp:alive
+SERVER: Linux/2.x.x, UPnP/1.0, pvConnect UPnP SDK/1.0
+USN: uuid:7076436f-6e65-1063-8074-0090a9b35e88::urn:schemas-upnp-org:service:ContentDirectory:1
+
+
+21:32:56.420444 IP (tos 0x0, ttl 4, id 32652, offset 0, flags [none], proto UDP (17), length 389)
+    kellerplatte.hdus36b.local.ssdp > 239.255.255.250.ssdp: [udp sum ok] UDP, length 361
+..^.......^...E....................l.l.q..NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=1810
+LOCATION: http://192.168.1.163:9000/DeviceDescription.xml
+NT: urn:schemas-upnp-org:service:ConnectionManager:1
+NTS: ssdp:alive
+SERVER: Linux/2.x.x, UPnP/1.0, pvConnect UPnP SDK/1.0
+USN: uuid:7076436f-6e65-1063-8074-0090a9b35e88::urn:schemas-upnp-org:service:ConnectionManager:1
+
+
+21:32:56.430851 IP (tos 0x0, ttl 4, id 32653, offset 0, flags [none], proto UDP (17), length 403)
+    kellerplatte.hdus36b.local.ssdp > 239.255.255.250.ssdp: [udp sum ok] UDP, length 375
+..^.......^...E....................l.l...)NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=1810
+LOCATION: http://192.168.1.163:9000/DeviceDescription.xml
+NT: urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+NTS: ssdp:alive
+SERVER: Linux/2.x.x, UPnP/1.0, pvConnect UPnP SDK/1.0
+USN: uuid:7076436f-6e65-1063-8074-0090a9b35e88::urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+
+
+21:33:01.988375 IP (tos 0x0, ttl 2, id 49380, offset 0, flags [DF], proto UDP (17), length 319)
+    amazon-60d8ad8cd.hdus36b.local.50582 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 291
+..^......Y....E..?..@........g.......l.+..NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+Location: http://192.168.1.103:3600/ssdp/device-desc.xml
+Cache-Control: max-age=1800
+Server: UPnP/1.0 DLNADOC/1.50 AirReceiver/1.0.5.13
+NTS: ssdp:alive
+USN: uuid:98747d42-ddfd-47ba-bdd4-94d396568c1f::upnp:rootdevice
+NT: upnp:rootdevice
+
+
+21:33:02.054362 IP (tos 0x0, ttl 2, id 49384, offset 0, flags [DF], proto UDP (17), length 328)
+    amazon-60d8ad8cd.hdus36b.local.50582 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 300
+..^......Y....E..H..@........g.......l.4..NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+Location: http://192.168.1.103:3600/ssdp/device-desc.xml
+Cache-Control: max-age=1800
+Server: UPnP/1.0 DLNADOC/1.50 AirReceiver/1.0.5.13
+NTS: ssdp:alive
+USN: uuid:98747d42-ddfd-47ba-bdd4-94d396568c1f
+NT: uuid:98747d42-ddfd-47ba-bdd4-94d396568c1f
+
+
+21:33:02.091574 IP (tos 0x0, ttl 2, id 49387, offset 0, flags [DF], proto UDP (17), length 365)
+    amazon-60d8ad8cd.hdus36b.local.50582 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 337
+..^......Y....E..m..@........g.......l.YR&NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+Location: http://192.168.1.103:3600/ssdp/device-desc.xml
+Cache-Control: max-age=1800
+Server: UPnP/1.0 DLNADOC/1.50 AirReceiver/1.0.5.13
+NTS: ssdp:alive
+USN: uuid:98747d42-ddfd-47ba-bdd4-94d396568c1f::urn:dial-multiscreen-org:device:dial:1
+NT: urn:dial-multiscreen-org:device:dial:1
+
+
+21:33:02.105078 IP (tos 0x0, ttl 4, id 32654, offset 0, flags [none], proto UDP (17), length 365)
+    kellerplatte.hdus36b.local.60699 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 337
+..^.......^...E..m...................l.Y..NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=100
+LOCATION: http://192.168.1.163:49152/nasdevice.xml
+NT: upnp:rootdevice
+NTS: ssdp:alive
+SERVER: Linux/2.6.32.11-svn70860, UPnP/1.0, Portable SDK for UPnP devices/1.6.6
+X-User-Agent: redsonic
+USN: uuid:73656761-7465-7375-636b-0090a9b35e88::upnp:rootdevice
+
+
+21:33:02.176227 IP (tos 0x0, ttl 2, id 49392, offset 0, flags [DF], proto UDP (17), length 367)
+    amazon-60d8ad8cd.hdus36b.local.50582 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 339
+..^......Y....E..o..@........g.......l.[.~NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+Location: http://192.168.1.103:3600/ssdp/device-desc.xml
+Cache-Control: max-age=1800
+Server: UPnP/1.0 DLNADOC/1.50 AirReceiver/1.0.5.13
+NTS: ssdp:alive
+USN: uuid:98747d42-ddfd-47ba-bdd4-94d396568c1f::urn:dial-multiscreen-org:service:dial:1
+NT: urn:dial-multiscreen-org:service:dial:1
+
+
+21:33:02.205801 IP (tos 0x0, ttl 4, id 32655, offset 0, flags [none], proto UDP (17), length 374)
+    kellerplatte.hdus36b.local.60699 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 346
+..^.......^...E..v...................l.bIiNOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=100
+LOCATION: http://192.168.1.163:49152/nasdevice.xml
+NT: uuid:73656761-7465-7375-636b-0090a9b35e88
+NTS: ssdp:alive
+SERVER: Linux/2.6.32.11-svn70860, UPnP/1.0, Portable SDK for UPnP devices/1.6.6
+X-User-Agent: redsonic
+USN: uuid:73656761-7465-7375-636b-0090a9b35e88
+
+
+21:33:02.305568 IP (tos 0x0, ttl 4, id 32656, offset 0, flags [none], proto UDP (17), length 405)
+    kellerplatte.hdus36b.local.60699 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 377
+..^.......^...E......................l..Z.NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=100
+LOCATION: http://192.168.1.163:49152/nasdevice.xml
+NT: urn:schemas-upnp-org:device:WdNAS:1
+NTS: ssdp:alive
+SERVER: Linux/2.6.32.11-svn70860, UPnP/1.0, Portable SDK for UPnP devices/1.6.6
+X-User-Agent: redsonic
+USN: uuid:73656761-7465-7375-636b-0090a9b35e88::urn:schemas-upnp-org:device:WdNAS:1
+
+
+21:33:02.406098 IP (tos 0x0, ttl 4, id 32657, offset 0, flags [none], proto UDP (17), length 415)
+    kellerplatte.hdus36b.local.50116 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 387
+..^.......^...E..........w...........l....NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=100
+LOCATION: http://192.168.1.163:49152/nasdevice.xml
+NT: urn:schemas-microsoft-com:service:NULL:1
+NTS: ssdp:alive
+SERVER: Linux/2.6.32.11-svn70860, UPnP/1.0, Portable SDK for UPnP devices/1.6.6
+X-User-Agent: redsonic
+USN: uuid:73656761-7465-7375-636b-0090a9b35e88::urn:schemas-microsoft-com:service:NULL:1
+
+
+21:33:03.385645 IP (tos 0x0, ttl 1, id 46207, offset 0, flags [none], proto UDP (17), length 203)
+    192.168.122.139.61398 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 175
+..^.......Pw..E..........t..z........l....M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/90.0.4430.212 Mac OS X
+
+
+21:33:03.385832 IP (tos 0x0, ttl 1, id 12595, offset 0, flags [none], proto UDP (17), length 203)
+    c02sk1j5g8wm.hdus36b.local.52731 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 175
+..^.....L.._..E...13.................l....M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/90.0.4430.212 Mac OS X
+
+
+21:33:04.385547 IP (tos 0x0, ttl 1, id 60599, offset 0, flags [none], proto UDP (17), length 203)
+    192.168.122.139.61398 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 175
+..^.......Pw..E..........<..z........l....M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/90.0.4430.212 Mac OS X
+
+
+21:33:04.385607 IP (tos 0x0, ttl 1, id 43793, offset 0, flags [none], proto UDP (17), length 203)
+    c02sk1j5g8wm.hdus36b.local.52731 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 175
+..^.....L.._..E.........[............l....M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/90.0.4430.212 Mac OS X
+
+
+21:33:05.386298 IP (tos 0x0, ttl 1, id 58389, offset 0, flags [none], proto UDP (17), length 203)
+    192.168.122.139.61398 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 175
+..^.......Pw..E.............z........l....M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/90.0.4430.212 Mac OS X
+
+
+21:33:05.386326 IP (tos 0x0, ttl 1, id 10118, offset 0, flags [none], proto UDP (17), length 203)
+    c02sk1j5g8wm.hdus36b.local.52731 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 175
+..^.....L.._..E...'......H...........l....M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/90.0.4430.212 Mac OS X
+
+
+21:33:06.387510 IP (tos 0x0, ttl 1, id 14351, offset 0, flags [none], proto UDP (17), length 203)
+    192.168.122.139.61398 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 175
+..^.......Pw..E...8.....U...z........l....M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/90.0.4430.212 Mac OS X
+
+
+21:33:06.387559 IP (tos 0x0, ttl 1, id 28923, offset 0, flags [none], proto UDP (17), length 203)
+    c02sk1j5g8wm.hdus36b.local.52731 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 175
+..^.....L.._..E...p..................l....M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/90.0.4430.212 Mac OS X
+
+
+21:33:07.532816 IP (tos 0x0, ttl 2, id 49418, offset 0, flags [DF], proto UDP (17), length 299)
+    amazon-60d8ad8cd.hdus36b.local.40720 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 271
+..^......Y....E..+.
+@........g.......l....NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+Location: http://192.168.1.103:3500/
+Cache-Control: max-age=1800
+Server: UPnP/1.0 DLNADOC/1.50 AirReceiver/1.0.5.13
+NTS: ssdp:alive
+USN: uuid:3125d70f-76d6-4171-a5db-2ba0c7bbef36::upnp:rootdevice
+NT: upnp:rootdevice
+
+
+21:33:07.583172 IP (tos 0x0, ttl 2, id 49422, offset 0, flags [DF], proto UDP (17), length 308)
+    amazon-60d8ad8cd.hdus36b.local.40720 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 280
+..^......Y....E..4..@........g.......l. .-NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+Location: http://192.168.1.103:3500/
+Cache-Control: max-age=1800
+Server: UPnP/1.0 DLNADOC/1.50 AirReceiver/1.0.5.13
+NTS: ssdp:alive
+USN: uuid:3125d70f-76d6-4171-a5db-2ba0c7bbef36
+NT: uuid:3125d70f-76d6-4171-a5db-2ba0c7bbef36
+
+
+21:33:07.633521 IP (tos 0x0, ttl 2, id 49425, offset 0, flags [DF], proto UDP (17), length 355)
+    amazon-60d8ad8cd.hdus36b.local.40720 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 327
+..^......Y....E..c..@....o...g.......l.O.[NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+Location: http://192.168.1.103:3500/
+Cache-Control: max-age=1800
+Server: UPnP/1.0 DLNADOC/1.50 AirReceiver/1.0.5.13
+NTS: ssdp:alive
+USN: uuid:3125d70f-76d6-4171-a5db-2ba0c7bbef36::urn:schemas-upnp-org:device:MediaRenderer:1
+NT: urn:schemas-upnp-org:device:MediaRenderer:1
+
+
+21:33:07.684008 IP (tos 0x0, ttl 2, id 49429, offset 0, flags [DF], proto UDP (17), length 353)
+    amazon-60d8ad8cd.hdus36b.local.40720 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 325
+..^......Y....E..a..@....m...g.......l.Mu?NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+Location: http://192.168.1.103:3500/
+Cache-Control: max-age=1800
+Server: UPnP/1.0 DLNADOC/1.50 AirReceiver/1.0.5.13
+NTS: ssdp:alive
+USN: uuid:3125d70f-76d6-4171-a5db-2ba0c7bbef36::urn:schemas-upnp-org:service:AVTransport:1
+NT: urn:schemas-upnp-org:service:AVTransport:1
+
+
+21:33:07.741556 IP (tos 0x0, ttl 2, id 49433, offset 0, flags [DF], proto UDP (17), length 365)
+    amazon-60d8ad8cd.hdus36b.local.40720 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 337
+..^......Y....E..m..@....]...g.......l.Y..NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+Location: http://192.168.1.103:3500/
+Cache-Control: max-age=1800
+Server: UPnP/1.0 DLNADOC/1.50 AirReceiver/1.0.5.13
+NTS: ssdp:alive
+USN: uuid:3125d70f-76d6-4171-a5db-2ba0c7bbef36::urn:schemas-upnp-org:service:ConnectionManager:1
+NT: urn:schemas-upnp-org:service:ConnectionManager:1
+
+
+21:33:07.784904 IP (tos 0x0, ttl 2, id 49434, offset 0, flags [DF], proto UDP (17), length 363)
+    amazon-60d8ad8cd.hdus36b.local.40720 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 335
+..^......Y....E..k..@....^...g.......l.W.aNOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+Location: http://192.168.1.103:3500/
+Cache-Control: max-age=1800
+Server: UPnP/1.0 DLNADOC/1.50 AirReceiver/1.0.5.13
+NTS: ssdp:alive
+USN: uuid:3125d70f-76d6-4171-a5db-2ba0c7bbef36::urn:schemas-upnp-org:service:RenderingControl:1
+NT: urn:schemas-upnp-org:service:RenderingControl:1
+
+
+21:33:22.105618 IP (tos 0x0, ttl 4, id 32658, offset 0, flags [none], proto UDP (17), length 365)
+    kellerplatte.hdus36b.local.44815 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 337
+..^.......^...E..m...................l.Y2.NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=100
+LOCATION: http://192.168.1.163:49152/nasdevice.xml
+NT: upnp:rootdevice
+NTS: ssdp:alive
+SERVER: Linux/2.6.32.11-svn70860, UPnP/1.0, Portable SDK for UPnP devices/1.6.6
+X-User-Agent: redsonic
+USN: uuid:73656761-7465-7375-636b-0090a9b35e88::upnp:rootdevice
+
+
+21:33:22.206144 IP (tos 0x0, ttl 4, id 32659, offset 0, flags [none], proto UDP (17), length 374)
+    kellerplatte.hdus36b.local.44815 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 346
+..^.......^...E..v...................l.b.uNOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=100
+LOCATION: http://192.168.1.163:49152/nasdevice.xml
+NT: uuid:73656761-7465-7375-636b-0090a9b35e88
+NTS: ssdp:alive
+SERVER: Linux/2.6.32.11-svn70860, UPnP/1.0, Portable SDK for UPnP devices/1.6.6
+X-User-Agent: redsonic
+USN: uuid:73656761-7465-7375-636b-0090a9b35e88
+
+
+21:33:22.306595 IP (tos 0x0, ttl 4, id 32660, offset 0, flags [none], proto UDP (17), length 405)
+    kellerplatte.hdus36b.local.44815 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 377
+..^.......^...E..........~...........l....NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=100
+LOCATION: http://192.168.1.163:49152/nasdevice.xml
+NT: urn:schemas-upnp-org:device:WdNAS:1
+NTS: ssdp:alive
+SERVER: Linux/2.6.32.11-svn70860, UPnP/1.0, Portable SDK for UPnP devices/1.6.6
+X-User-Agent: redsonic
+USN: uuid:73656761-7465-7375-636b-0090a9b35e88::urn:schemas-upnp-org:device:WdNAS:1
+
+
+21:33:22.407200 IP (tos 0x0, ttl 4, id 32661, offset 0, flags [none], proto UDP (17), length 415)
+    kellerplatte.hdus36b.local.55987 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 387
+..^.......^...E..........s...........l....NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=100
+LOCATION: http://192.168.1.163:49152/nasdevice.xml
+NT: urn:schemas-microsoft-com:service:NULL:1
+NTS: ssdp:alive
+SERVER: Linux/2.6.32.11-svn70860, UPnP/1.0, Portable SDK for UPnP devices/1.6.6
+X-User-Agent: redsonic
+USN: uuid:73656761-7465-7375-636b-0090a9b35e88::urn:schemas-microsoft-com:service:NULL:1
+
+
+21:33:22.609728 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 410)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 382
+..^....yY.
+...E.....@................l....NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: upnp:rootdevice
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af0::upnp:rootdevice
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:33:22.609729 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 482)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 454
+..^....yY.
+...E.....@....g...........l.._.NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: urn:schemas-upnp-org:device:InternetGatewayDevice:1
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af0::urn:schemas-upnp-org:device:InternetGatewayDevice:1
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:33:22.609730 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 419)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 391
+..^....yY.
+...E.....@................l....NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af0
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af0
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:33:22.609870 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 478)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 450
+..^....yY.
+...E.....@....k...........l....NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: urn:schemas-upnp-org:device:WANConnectionDevice:1
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af2::urn:schemas-upnp-org:device:WANConnectionDevice:1
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:33:22.609871 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 419)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 391
+..^....yY.
+...E.....@................l....NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af2
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af2
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:33:22.610052 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 458)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 430
+..^....yY.
+...E.....@................l...	NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: urn:schemas-upnp-org:device:WANDevice:1
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af1::urn:schemas-upnp-org:device:WANDevice:1
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:33:22.610053 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 419)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 391
+..^....yY.
+...E.....@................l....NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af1
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af1
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:33:22.610072 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 490)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 462
+..^....yY.
+...E.....@...._...........l...BNOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: urn:schemas-upnp-org:service:WANCommonInterfaceConfig:1
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af1::urn:schemas-upnp-org:service:WANCommonInterfaceConfig:1
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:33:22.610178 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 472)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 444
+..^....yY.
+...E.....@....q...........l..J.NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: urn:schemas-upnp-org:service:WANIPConnection:1
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af2::urn:schemas-upnp-org:service:WANIPConnection:1
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:33:22.610363 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 474)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 446
+..^....yY.
+...E.....@....o...........l..c.NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: urn:schemas-upnp-org:service:WANPPPConnection:1
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af2::urn:schemas-upnp-org:service:WANPPPConnection:1
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:33:22.610364 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 474)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 446
+..^....yY.
+...E.....@....o...........l...XNOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: urn:schemas-upnp-org:service:Layer3Forwarding:1
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af0::urn:schemas-upnp-org:service:Layer3Forwarding:1
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:33:22.861103 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 474)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 446
+..^....yY.
+...E.....@....o...........l...XNOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: urn:schemas-upnp-org:service:Layer3Forwarding:1
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af0::urn:schemas-upnp-org:service:Layer3Forwarding:1
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:33:22.861104 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 474)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 446
+..^....yY.
+...E.....@....o...........l..c.NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: urn:schemas-upnp-org:service:WANPPPConnection:1
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af2::urn:schemas-upnp-org:service:WANPPPConnection:1
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:33:22.861105 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 472)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 444
+..^....yY.
+...E.....@....q...........l..J.NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: urn:schemas-upnp-org:service:WANIPConnection:1
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af2::urn:schemas-upnp-org:service:WANIPConnection:1
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:33:22.861105 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 490)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 462
+..^....yY.
+...E.....@...._...........l...BNOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: urn:schemas-upnp-org:service:WANCommonInterfaceConfig:1
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af1::urn:schemas-upnp-org:service:WANCommonInterfaceConfig:1
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:33:22.861200 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 419)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 391
+..^....yY.
+...E.....@................l....NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af1
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af1
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:33:22.861201 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 458)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 430
+..^....yY.
+...E.....@................l...	NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: urn:schemas-upnp-org:device:WANDevice:1
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af1::urn:schemas-upnp-org:device:WANDevice:1
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:33:22.861202 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 419)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 391
+..^....yY.
+...E.....@................l....NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af2
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af2
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:33:22.861202 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 478)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 450
+..^....yY.
+...E.....@....k...........l....NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: urn:schemas-upnp-org:device:WANConnectionDevice:1
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af2::urn:schemas-upnp-org:device:WANConnectionDevice:1
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:33:22.861322 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 419)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 391
+..^....yY.
+...E.....@................l....NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af0
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af0
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:33:22.861323 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 482)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 454
+..^....yY.
+...E.....@....g...........l.._.NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: urn:schemas-upnp-org:device:InternetGatewayDevice:1
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af0::urn:schemas-upnp-org:device:InternetGatewayDevice:1
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:33:22.861324 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 410)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 382
+..^....yY.
+...E.....@................l....NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: upnp:rootdevice
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af0::upnp:rootdevice
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:33:32.395597 IP (tos 0x0, ttl 2, id 50014, offset 0, flags [DF], proto UDP (17), length 319)
+    amazon-60d8ad8cd.hdus36b.local.34958 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 291
+..^......Y....E..?.^@....F...g.......l.+..NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+Location: http://192.168.1.103:3600/ssdp/device-desc.xml
+Cache-Control: max-age=1800
+Server: UPnP/1.0 DLNADOC/1.50 AirReceiver/1.0.5.13
+NTS: ssdp:alive
+USN: uuid:98747d42-ddfd-47ba-bdd4-94d396568c1f::upnp:rootdevice
+NT: upnp:rootdevice
+
+
+21:33:32.443874 IP (tos 0x0, ttl 2, id 50017, offset 0, flags [DF], proto UDP (17), length 328)
+    amazon-60d8ad8cd.hdus36b.local.34958 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 300
+..^......Y....E..H.a@....:...g.......l.4..NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+Location: http://192.168.1.103:3600/ssdp/device-desc.xml
+Cache-Control: max-age=1800
+Server: UPnP/1.0 DLNADOC/1.50 AirReceiver/1.0.5.13
+NTS: ssdp:alive
+USN: uuid:98747d42-ddfd-47ba-bdd4-94d396568c1f
+NT: uuid:98747d42-ddfd-47ba-bdd4-94d396568c1f
+
+
+21:33:32.494824 IP (tos 0x0, ttl 2, id 50018, offset 0, flags [DF], proto UDP (17), length 365)
+    amazon-60d8ad8cd.hdus36b.local.34958 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 337
+..^......Y....E..m.b@........g.......l.Y..NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+Location: http://192.168.1.103:3600/ssdp/device-desc.xml
+Cache-Control: max-age=1800
+Server: UPnP/1.0 DLNADOC/1.50 AirReceiver/1.0.5.13
+NTS: ssdp:alive
+USN: uuid:98747d42-ddfd-47ba-bdd4-94d396568c1f::urn:dial-multiscreen-org:device:dial:1
+NT: urn:dial-multiscreen-org:device:dial:1
+
+
+21:33:32.545180 IP (tos 0x0, ttl 2, id 50019, offset 0, flags [DF], proto UDP (17), length 367)
+    amazon-60d8ad8cd.hdus36b.local.34958 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 339
+..^......Y....E..o.c@........g.......l.[/.NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+Location: http://192.168.1.103:3600/ssdp/device-desc.xml
+Cache-Control: max-age=1800
+Server: UPnP/1.0 DLNADOC/1.50 AirReceiver/1.0.5.13
+NTS: ssdp:alive
+USN: uuid:98747d42-ddfd-47ba-bdd4-94d396568c1f::urn:dial-multiscreen-org:service:dial:1
+NT: urn:dial-multiscreen-org:service:dial:1
+
+
+21:33:38.293383 IP (tos 0x0, ttl 2, id 50206, offset 0, flags [DF], proto UDP (17), length 353)
+    amazon-60d8ad8cd.hdus36b.local.51439 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 325
+..^......Y....E..a..@....d...g.......l.MK`NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+Location: http://192.168.1.103:3500/
+Cache-Control: max-age=1800
+Server: UPnP/1.0 DLNADOC/1.50 AirReceiver/1.0.5.13
+NTS: ssdp:alive
+USN: uuid:3125d70f-76d6-4171-a5db-2ba0c7bbef36::urn:schemas-upnp-org:service:AVTransport:1
+NT: urn:schemas-upnp-org:service:AVTransport:1
+
+
+21:33:38.380949 IP (tos 0x0, ttl 2, id 50209, offset 0, flags [DF], proto UDP (17), length 365)
+    amazon-60d8ad8cd.hdus36b.local.51439 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 337
+..^......Y....E..m.!@....U...g.......l.Y..NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+Location: http://192.168.1.103:3500/
+Cache-Control: max-age=1800
+Server: UPnP/1.0 DLNADOC/1.50 AirReceiver/1.0.5.13
+NTS: ssdp:alive
+USN: uuid:3125d70f-76d6-4171-a5db-2ba0c7bbef36::urn:schemas-upnp-org:service:ConnectionManager:1
+NT: urn:schemas-upnp-org:service:ConnectionManager:1
+
+
+21:33:38.395837 IP (tos 0x0, ttl 2, id 50214, offset 0, flags [DF], proto UDP (17), length 363)
+    amazon-60d8ad8cd.hdus36b.local.51439 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 335
+..^......Y....E..k.&@....R...g.......l.W..NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+Location: http://192.168.1.103:3500/
+Cache-Control: max-age=1800
+Server: UPnP/1.0 DLNADOC/1.50 AirReceiver/1.0.5.13
+NTS: ssdp:alive
+USN: uuid:3125d70f-76d6-4171-a5db-2ba0c7bbef36::urn:schemas-upnp-org:service:RenderingControl:1
+NT: urn:schemas-upnp-org:service:RenderingControl:1
+
+
+21:33:39.502447 IP (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 297)
+    192.168.122.1.61000 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 269
+..^.....yn....E..)..@...K ..z......H.l....NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=1800
+LOCATION: http://192.168.122.1:61000/scalarwebapi_dd.xml
+NT: upnp:rootdevice
+NTS: ssdp:alive
+SERVER: UPnP/1.0 MINT-X/1.8.1
+USN: uuid:000000001000-1010-8000-CEC0796EE299::upnp:rootdevice
+
+
+21:33:39.552201 IP (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 305)
+    192.168.122.1.61000 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 277
+..^.....yn....E..1..@...K...z......H.l...:NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=1800
+LOCATION: http://192.168.122.1:61000/scalarwebapi_dd.xml
+NT: uuid:000000001000-1010-8000-CEC0796EE299
+NTS: ssdp:alive
+SERVER: UPnP/1.0 MINT-X/1.8.1
+USN: uuid:000000001000-1010-8000-CEC0796EE299
+
+
+21:33:39.654645 IP (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 337)
+    192.168.122.1.61000 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 309
+..^.....yn....E..Q..@...J...z......H.l.=U.NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=1800
+LOCATION: http://192.168.122.1:61000/scalarwebapi_dd.xml
+NT: urn:schemas-upnp-org:device:Basic:1
+NTS: ssdp:alive
+SERVER: UPnP/1.0 MINT-X/1.8.1
+USN: uuid:000000001000-1010-8000-CEC0796EE299::urn:schemas-upnp-org:device:Basic:1
+
+
+21:33:39.655372 IP (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 353)
+    192.168.122.1.61000 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 325
+..^.....yn....E..a..@...J...z......H.l.M..NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=1800
+LOCATION: http://192.168.122.1:61000/scalarwebapi_dd.xml
+NT: urn:schemas-sony-com:service:ScalarWebAPI:1
+NTS: ssdp:alive
+SERVER: UPnP/1.0 MINT-X/1.8.1
+USN: uuid:000000001000-1010-8000-CEC0796EE299::urn:schemas-sony-com:service:ScalarWebAPI:1
+
+
+21:33:39.655968 IP (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 357)
+    192.168.122.1.61000 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 329
+..^.....yn....E..e..@...J...z......H.l.Q.BNOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=1800
+LOCATION: http://192.168.122.1:61000/scalarwebapi_dd.xml
+NT: urn:schemas-sony-com:service:DigitalImaging:1
+NTS: ssdp:alive
+SERVER: UPnP/1.0 MINT-X/1.8.1
+USN: uuid:000000001000-1010-8000-CEC0796EE299::urn:schemas-sony-com:service:DigitalImaging:1
+
+
+21:33:39.756982 IP (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 297)
+    192.168.122.1.61000 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 269
+..^.....yn....E..)..@...K ..z......H.l....NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=1800
+LOCATION: http://192.168.122.1:61000/scalarwebapi_dd.xml
+NT: upnp:rootdevice
+NTS: ssdp:alive
+SERVER: UPnP/1.0 MINT-X/1.8.1
+USN: uuid:000000001000-1010-8000-CEC0796EE299::upnp:rootdevice
+
+
+21:33:39.859474 IP (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 305)
+    192.168.122.1.61000 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 277
+..^.....yn....E..1..@...K...z......H.l...:NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=1800
+LOCATION: http://192.168.122.1:61000/scalarwebapi_dd.xml
+NT: uuid:000000001000-1010-8000-CEC0796EE299
+NTS: ssdp:alive
+SERVER: UPnP/1.0 MINT-X/1.8.1
+USN: uuid:000000001000-1010-8000-CEC0796EE299
+
+
+21:33:39.860089 IP (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 337)
+    192.168.122.1.61000 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 309
+..^.....yn....E..Q..@...J...z......H.l.=U.NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=1800
+LOCATION: http://192.168.122.1:61000/scalarwebapi_dd.xml
+NT: urn:schemas-upnp-org:device:Basic:1
+NTS: ssdp:alive
+SERVER: UPnP/1.0 MINT-X/1.8.1
+USN: uuid:000000001000-1010-8000-CEC0796EE299::urn:schemas-upnp-org:device:Basic:1
+
+
+21:33:39.860740 IP (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 353)
+    192.168.122.1.61000 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 325
+..^.....yn....E..a..@...J...z......H.l.M..NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=1800
+LOCATION: http://192.168.122.1:61000/scalarwebapi_dd.xml
+NT: urn:schemas-sony-com:service:ScalarWebAPI:1
+NTS: ssdp:alive
+SERVER: UPnP/1.0 MINT-X/1.8.1
+USN: uuid:000000001000-1010-8000-CEC0796EE299::urn:schemas-sony-com:service:ScalarWebAPI:1
+
+
+21:33:39.861393 IP (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 357)
+    192.168.122.1.61000 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 329
+..^.....yn....E..e..@...J...z......H.l.Q.BNOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=1800
+LOCATION: http://192.168.122.1:61000/scalarwebapi_dd.xml
+NT: urn:schemas-sony-com:service:DigitalImaging:1
+NTS: ssdp:alive
+SERVER: UPnP/1.0 MINT-X/1.8.1
+USN: uuid:000000001000-1010-8000-CEC0796EE299::urn:schemas-sony-com:service:DigitalImaging:1
+
+
+21:33:42.107251 IP (tos 0x0, ttl 4, id 32662, offset 0, flags [none], proto UDP (17), length 365)
+    kellerplatte.hdus36b.local.57810 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 337
+..^.......^...E..m...................l.Y.=NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=100
+LOCATION: http://192.168.1.163:49152/nasdevice.xml
+NT: upnp:rootdevice
+NTS: ssdp:alive
+SERVER: Linux/2.6.32.11-svn70860, UPnP/1.0, Portable SDK for UPnP devices/1.6.6
+X-User-Agent: redsonic
+USN: uuid:73656761-7465-7375-636b-0090a9b35e88::upnp:rootdevice
+
+
+21:33:42.207709 IP (tos 0x0, ttl 4, id 32663, offset 0, flags [none], proto UDP (17), length 374)
+    kellerplatte.hdus36b.local.57810 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 346
+..^.......^...E..v...................l.bT.NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=100
+LOCATION: http://192.168.1.163:49152/nasdevice.xml
+NT: uuid:73656761-7465-7375-636b-0090a9b35e88
+NTS: ssdp:alive
+SERVER: Linux/2.6.32.11-svn70860, UPnP/1.0, Portable SDK for UPnP devices/1.6.6
+X-User-Agent: redsonic
+USN: uuid:73656761-7465-7375-636b-0090a9b35e88
+
+
+21:33:42.307797 IP (tos 0x0, ttl 4, id 32664, offset 0, flags [none], proto UDP (17), length 405)
+    kellerplatte.hdus36b.local.57810 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 377
+..^.......^...E..........z...........l..eTNOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=100
+LOCATION: http://192.168.1.163:49152/nasdevice.xml
+NT: urn:schemas-upnp-org:device:WdNAS:1
+NTS: ssdp:alive
+SERVER: Linux/2.6.32.11-svn70860, UPnP/1.0, Portable SDK for UPnP devices/1.6.6
+X-User-Agent: redsonic
+USN: uuid:73656761-7465-7375-636b-0090a9b35e88::urn:schemas-upnp-org:device:WdNAS:1
+
+
+21:33:42.407898 IP (tos 0x0, ttl 4, id 32665, offset 0, flags [none], proto UDP (17), length 415)
+    kellerplatte.hdus36b.local.50664 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 387
+..^.......^...E..........o...........l....NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=100
+LOCATION: http://192.168.1.163:49152/nasdevice.xml
+NT: urn:schemas-microsoft-com:service:NULL:1
+NTS: ssdp:alive
+SERVER: Linux/2.6.32.11-svn70860, UPnP/1.0, Portable SDK for UPnP devices/1.6.6
+X-User-Agent: redsonic
+USN: uuid:73656761-7465-7375-636b-0090a9b35e88::urn:schemas-microsoft-com:service:NULL:1
+
+
+21:33:56.506985 IP (tos 0x0, ttl 4, id 32666, offset 0, flags [none], proto UDP (17), length 332)
+    kellerplatte.hdus36b.local.ssdp > 239.255.255.250.ssdp: [udp sum ok] UDP, length 304
+..^.......^...E..L.................l.l.8Z.NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=1810
+LOCATION: http://192.168.1.163:9000/DeviceDescription.xml
+NT: uuid:7076436f-6e65-1063-8074-0090a9b35e88
+NTS: ssdp:alive
+SERVER: Linux/2.x.x, UPnP/1.0, pvConnect UPnP SDK/1.0
+USN: uuid:7076436f-6e65-1063-8074-0090a9b35e88
+
+
+21:33:56.517509 IP (tos 0x0, ttl 4, id 32667, offset 0, flags [none], proto UDP (17), length 323)
+    kellerplatte.hdus36b.local.ssdp > 239.255.255.250.ssdp: [udp sum ok] UDP, length 295
+..^.......^...E..C.................l.l./..NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=1810
+LOCATION: http://192.168.1.163:9000/DeviceDescription.xml
+NT: upnp:rootdevice
+NTS: ssdp:alive
+SERVER: Linux/2.x.x, UPnP/1.0, pvConnect UPnP SDK/1.0
+USN: uuid:7076436f-6e65-1063-8074-0090a9b35e88::upnp:rootdevice
+
+
+21:33:56.527935 IP (tos 0x0, ttl 4, id 32668, offset 0, flags [none], proto UDP (17), length 375)
+    kellerplatte.hdus36b.local.ssdp > 239.255.255.250.ssdp: [udp sum ok] UDP, length 347
+..^.......^...E..w.................l.l.c.	NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=1810
+LOCATION: http://192.168.1.163:9000/DeviceDescription.xml
+NT: urn:schemas-upnp-org:device:MediaServer:1
+NTS: ssdp:alive
+SERVER: Linux/2.x.x, UPnP/1.0, pvConnect UPnP SDK/1.0
+USN: uuid:7076436f-6e65-1063-8074-0090a9b35e88::urn:schemas-upnp-org:device:MediaServer:1
+
+
+21:33:56.538428 IP (tos 0x0, ttl 4, id 32669, offset 0, flags [none], proto UDP (17), length 387)
+    kellerplatte.hdus36b.local.ssdp > 239.255.255.250.ssdp: [udp sum ok] UDP, length 359
+..^.......^...E....................l.l.o.4NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=1810
+LOCATION: http://192.168.1.163:9000/DeviceDescription.xml
+NT: urn:schemas-upnp-org:service:ContentDirectory:1
+NTS: ssdp:alive
+SERVER: Linux/2.x.x, UPnP/1.0, pvConnect UPnP SDK/1.0
+USN: uuid:7076436f-6e65-1063-8074-0090a9b35e88::urn:schemas-upnp-org:service:ContentDirectory:1
+
+
+21:33:56.548777 IP (tos 0x0, ttl 4, id 32670, offset 0, flags [none], proto UDP (17), length 389)
+    kellerplatte.hdus36b.local.ssdp > 239.255.255.250.ssdp: [udp sum ok] UDP, length 361
+..^.......^...E....................l.l.q..NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=1810
+LOCATION: http://192.168.1.163:9000/DeviceDescription.xml
+NT: urn:schemas-upnp-org:service:ConnectionManager:1
+NTS: ssdp:alive
+SERVER: Linux/2.x.x, UPnP/1.0, pvConnect UPnP SDK/1.0
+USN: uuid:7076436f-6e65-1063-8074-0090a9b35e88::urn:schemas-upnp-org:service:ConnectionManager:1
+
+
+21:33:56.558880 IP (tos 0x0, ttl 4, id 32671, offset 0, flags [none], proto UDP (17), length 403)
+    kellerplatte.hdus36b.local.ssdp > 239.255.255.250.ssdp: [udp sum ok] UDP, length 375
+..^.......^...E..........u.........l.l...)NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=1810
+LOCATION: http://192.168.1.163:9000/DeviceDescription.xml
+NT: urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+NTS: ssdp:alive
+SERVER: Linux/2.x.x, UPnP/1.0, pvConnect UPnP SDK/1.0
+USN: uuid:7076436f-6e65-1063-8074-0090a9b35e88::urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+
+
+21:34:02.106878 IP (tos 0x0, ttl 4, id 32672, offset 0, flags [none], proto UDP (17), length 365)
+    kellerplatte.hdus36b.local.60822 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 337
+..^.......^...E..m...................l.Y.yNOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=100
+LOCATION: http://192.168.1.163:49152/nasdevice.xml
+NT: upnp:rootdevice
+NTS: ssdp:alive
+SERVER: Linux/2.6.32.11-svn70860, UPnP/1.0, Portable SDK for UPnP devices/1.6.6
+X-User-Agent: redsonic
+USN: uuid:73656761-7465-7375-636b-0090a9b35e88::upnp:rootdevice
+
+
+21:34:02.207523 IP (tos 0x0, ttl 4, id 32673, offset 0, flags [none], proto UDP (17), length 374)
+    kellerplatte.hdus36b.local.60822 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 346
+..^.......^...E..v...................l.bH.NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=100
+LOCATION: http://192.168.1.163:49152/nasdevice.xml
+NT: uuid:73656761-7465-7375-636b-0090a9b35e88
+NTS: ssdp:alive
+SERVER: Linux/2.6.32.11-svn70860, UPnP/1.0, Portable SDK for UPnP devices/1.6.6
+X-User-Agent: redsonic
+USN: uuid:73656761-7465-7375-636b-0090a9b35e88
+
+
+21:34:02.307847 IP (tos 0x0, ttl 4, id 32674, offset 0, flags [none], proto UDP (17), length 405)
+    kellerplatte.hdus36b.local.60822 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 377
+..^.......^...E..........p...........l..Y.NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=100
+LOCATION: http://192.168.1.163:49152/nasdevice.xml
+NT: urn:schemas-upnp-org:device:WdNAS:1
+NTS: ssdp:alive
+SERVER: Linux/2.6.32.11-svn70860, UPnP/1.0, Portable SDK for UPnP devices/1.6.6
+X-User-Agent: redsonic
+USN: uuid:73656761-7465-7375-636b-0090a9b35e88::urn:schemas-upnp-org:device:WdNAS:1
+
+
+21:34:02.408361 IP (tos 0x0, ttl 4, id 32675, offset 0, flags [none], proto UDP (17), length 415)
+    kellerplatte.hdus36b.local.36902 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 387
+..^.......^...E..........e.........&.l...INOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=100
+LOCATION: http://192.168.1.163:49152/nasdevice.xml
+NT: urn:schemas-microsoft-com:service:NULL:1
+NTS: ssdp:alive
+SERVER: Linux/2.6.32.11-svn70860, UPnP/1.0, Portable SDK for UPnP devices/1.6.6
+X-User-Agent: redsonic
+USN: uuid:73656761-7465-7375-636b-0090a9b35e88::urn:schemas-microsoft-com:service:NULL:1
+
+
+21:34:02.798763 IP (tos 0x0, ttl 2, id 51262, offset 0, flags [DF], proto UDP (17), length 319)
+    amazon-60d8ad8cd.hdus36b.local.38565 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 291
+..^......Y....E..?.>@....e...g.......l.+..NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+Location: http://192.168.1.103:3600/ssdp/device-desc.xml
+Cache-Control: max-age=1800
+Server: UPnP/1.0 DLNADOC/1.50 AirReceiver/1.0.5.13
+NTS: ssdp:alive
+USN: uuid:98747d42-ddfd-47ba-bdd4-94d396568c1f::upnp:rootdevice
+NT: upnp:rootdevice
+
+
+21:34:02.849127 IP (tos 0x0, ttl 2, id 51266, offset 0, flags [DF], proto UDP (17), length 328)
+    amazon-60d8ad8cd.hdus36b.local.38565 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 300
+..^......Y....E..H.B@....X...g.......l.4..NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+Location: http://192.168.1.103:3600/ssdp/device-desc.xml
+Cache-Control: max-age=1800
+Server: UPnP/1.0 DLNADOC/1.50 AirReceiver/1.0.5.13
+NTS: ssdp:alive
+USN: uuid:98747d42-ddfd-47ba-bdd4-94d396568c1f
+NT: uuid:98747d42-ddfd-47ba-bdd4-94d396568c1f
+
+
+21:34:02.899481 IP (tos 0x0, ttl 2, id 51271, offset 0, flags [DF], proto UDP (17), length 365)
+    amazon-60d8ad8cd.hdus36b.local.38565 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 337
+..^......Y....E..m.G@........g.......l.Y..NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+Location: http://192.168.1.103:3600/ssdp/device-desc.xml
+Cache-Control: max-age=1800
+Server: UPnP/1.0 DLNADOC/1.50 AirReceiver/1.0.5.13
+NTS: ssdp:alive
+USN: uuid:98747d42-ddfd-47ba-bdd4-94d396568c1f::urn:dial-multiscreen-org:device:dial:1
+NT: urn:dial-multiscreen-org:device:dial:1
+
+
+21:34:02.949756 IP (tos 0x0, ttl 2, id 51276, offset 0, flags [DF], proto UDP (17), length 367)
+    amazon-60d8ad8cd.hdus36b.local.38565 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 339
+..^......Y....E..o.L@....'...g.......l.[!pNOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+Location: http://192.168.1.103:3600/ssdp/device-desc.xml
+Cache-Control: max-age=1800
+Server: UPnP/1.0 DLNADOC/1.50 AirReceiver/1.0.5.13
+NTS: ssdp:alive
+USN: uuid:98747d42-ddfd-47ba-bdd4-94d396568c1f::urn:dial-multiscreen-org:service:dial:1
+NT: urn:dial-multiscreen-org:service:dial:1
+
+
+21:34:08.747159 IP (tos 0x0, ttl 2, id 51312, offset 0, flags [DF], proto UDP (17), length 299)
+    amazon-60d8ad8cd.hdus36b.local.51234 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 271
+..^......Y....E..+.p@....G...g.....".l....NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+Location: http://192.168.1.103:3500/
+Cache-Control: max-age=1800
+Server: UPnP/1.0 DLNADOC/1.50 AirReceiver/1.0.5.13
+NTS: ssdp:alive
+USN: uuid:3125d70f-76d6-4171-a5db-2ba0c7bbef36::upnp:rootdevice
+NT: upnp:rootdevice
+
+
+21:34:08.797280 IP (tos 0x0, ttl 2, id 51317, offset 0, flags [DF], proto UDP (17), length 308)
+    amazon-60d8ad8cd.hdus36b.local.51234 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 280
+..^......Y....E..4.u@....9...g.....".l. ..NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+Location: http://192.168.1.103:3500/
+Cache-Control: max-age=1800
+Server: UPnP/1.0 DLNADOC/1.50 AirReceiver/1.0.5.13
+NTS: ssdp:alive
+USN: uuid:3125d70f-76d6-4171-a5db-2ba0c7bbef36
+NT: uuid:3125d70f-76d6-4171-a5db-2ba0c7bbef36
+
+
+21:34:08.847450 IP (tos 0x0, ttl 2, id 51319, offset 0, flags [DF], proto UDP (17), length 355)
+    amazon-60d8ad8cd.hdus36b.local.51234 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 327
+..^......Y....E..c.w@........g.....".l.O.INOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+Location: http://192.168.1.103:3500/
+Cache-Control: max-age=1800
+Server: UPnP/1.0 DLNADOC/1.50 AirReceiver/1.0.5.13
+NTS: ssdp:alive
+USN: uuid:3125d70f-76d6-4171-a5db-2ba0c7bbef36::urn:schemas-upnp-org:device:MediaRenderer:1
+NT: urn:schemas-upnp-org:device:MediaRenderer:1
+
+
+21:34:08.897971 IP (tos 0x0, ttl 2, id 51320, offset 0, flags [DF], proto UDP (17), length 353)
+    amazon-60d8ad8cd.hdus36b.local.51234 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 325
+..^......Y....E..a.x@....	...g.....".l.ML-NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+Location: http://192.168.1.103:3500/
+Cache-Control: max-age=1800
+Server: UPnP/1.0 DLNADOC/1.50 AirReceiver/1.0.5.13
+NTS: ssdp:alive
+USN: uuid:3125d70f-76d6-4171-a5db-2ba0c7bbef36::urn:schemas-upnp-org:service:AVTransport:1
+NT: urn:schemas-upnp-org:service:AVTransport:1
+
+
+21:34:08.948368 IP (tos 0x0, ttl 2, id 51324, offset 0, flags [DF], proto UDP (17), length 365)
+    amazon-60d8ad8cd.hdus36b.local.51234 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 337
+..^......Y....E..m.|@........g.....".l.Y..NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+Location: http://192.168.1.103:3500/
+Cache-Control: max-age=1800
+Server: UPnP/1.0 DLNADOC/1.50 AirReceiver/1.0.5.13
+NTS: ssdp:alive
+USN: uuid:3125d70f-76d6-4171-a5db-2ba0c7bbef36::urn:schemas-upnp-org:service:ConnectionManager:1
+NT: urn:schemas-upnp-org:service:ConnectionManager:1
+
+
+21:34:08.998848 IP (tos 0x0, ttl 2, id 51327, offset 0, flags [DF], proto UDP (17), length 363)
+    amazon-60d8ad8cd.hdus36b.local.51234 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 335
+..^......Y....E..k..@........g.....".l.W.NNOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+Location: http://192.168.1.103:3500/
+Cache-Control: max-age=1800
+Server: UPnP/1.0 DLNADOC/1.50 AirReceiver/1.0.5.13
+NTS: ssdp:alive
+USN: uuid:3125d70f-76d6-4171-a5db-2ba0c7bbef36::urn:schemas-upnp-org:service:RenderingControl:1
+NT: urn:schemas-upnp-org:service:RenderingControl:1
+
+
+21:34:15.169747 IP (tos 0x0, ttl 1, id 26812, offset 0, flags [none], proto UDP (17), length 202)
+    h5cg7181bwb.hdus36b.local.58091 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 174
+..^.......=F..E...h..........'.......l..h.M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/90.0.4430.212 Windows
+
+
+21:34:16.171701 IP (tos 0x0, ttl 1, id 26813, offset 0, flags [none], proto UDP (17), length 202)
+    h5cg7181bwb.hdus36b.local.58091 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 174
+..^.......=F..E...h..........'.......l..h.M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/90.0.4430.212 Windows
+
+
+21:34:17.171439 IP (tos 0x0, ttl 1, id 26814, offset 0, flags [none], proto UDP (17), length 202)
+    h5cg7181bwb.hdus36b.local.58091 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 174
+..^.......=F..E...h..........'.......l..h.M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/90.0.4430.212 Windows
+
+
+21:34:18.173266 IP (tos 0x0, ttl 1, id 26815, offset 0, flags [none], proto UDP (17), length 202)
+    h5cg7181bwb.hdus36b.local.58091 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 174
+..^.......=F..E...h..........'.......l..h.M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/90.0.4430.212 Windows
+
+
+21:34:22.108246 IP (tos 0x0, ttl 4, id 32676, offset 0, flags [none], proto UDP (17), length 365)
+    kellerplatte.hdus36b.local.53570 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 337
+..^.......^...E..m.................B.l.Y..NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=100
+LOCATION: http://192.168.1.163:49152/nasdevice.xml
+NT: upnp:rootdevice
+NTS: ssdp:alive
+SERVER: Linux/2.6.32.11-svn70860, UPnP/1.0, Portable SDK for UPnP devices/1.6.6
+X-User-Agent: redsonic
+USN: uuid:73656761-7465-7375-636b-0090a9b35e88::upnp:rootdevice
+
+
+21:34:22.208714 IP (tos 0x0, ttl 4, id 32677, offset 0, flags [none], proto UDP (17), length 374)
+    kellerplatte.hdus36b.local.53570 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 346
+..^.......^...E..v.................B.l.beBNOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=100
+LOCATION: http://192.168.1.163:49152/nasdevice.xml
+NT: uuid:73656761-7465-7375-636b-0090a9b35e88
+NTS: ssdp:alive
+SERVER: Linux/2.6.32.11-svn70860, UPnP/1.0, Portable SDK for UPnP devices/1.6.6
+X-User-Agent: redsonic
+USN: uuid:73656761-7465-7375-636b-0090a9b35e88
+
+
+21:34:22.309142 IP (tos 0x0, ttl 4, id 32678, offset 0, flags [none], proto UDP (17), length 405)
+    kellerplatte.hdus36b.local.53570 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 377
+..^.......^...E..........l.........B.l..u.NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=100
+LOCATION: http://192.168.1.163:49152/nasdevice.xml
+NT: urn:schemas-upnp-org:device:WdNAS:1
+NTS: ssdp:alive
+SERVER: Linux/2.6.32.11-svn70860, UPnP/1.0, Portable SDK for UPnP devices/1.6.6
+X-User-Agent: redsonic
+USN: uuid:73656761-7465-7375-636b-0090a9b35e88::urn:schemas-upnp-org:device:WdNAS:1
+
+
+21:34:22.409769 IP (tos 0x0, ttl 4, id 32679, offset 0, flags [none], proto UDP (17), length 415)
+    kellerplatte.hdus36b.local.40991 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 387
+..^.......^...E..........a...........l...ONOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=100
+LOCATION: http://192.168.1.163:49152/nasdevice.xml
+NT: urn:schemas-microsoft-com:service:NULL:1
+NTS: ssdp:alive
+SERVER: Linux/2.6.32.11-svn70860, UPnP/1.0, Portable SDK for UPnP devices/1.6.6
+X-User-Agent: redsonic
+USN: uuid:73656761-7465-7375-636b-0090a9b35e88::urn:schemas-microsoft-com:service:NULL:1
+
+
+21:34:22.611417 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 410)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 382
+..^....yY.
+...E.....@................l....NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: upnp:rootdevice
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af0::upnp:rootdevice
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:34:22.611419 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 482)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 454
+..^....yY.
+...E.....@....g...........l.._.NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: urn:schemas-upnp-org:device:InternetGatewayDevice:1
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af0::urn:schemas-upnp-org:device:InternetGatewayDevice:1
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:34:22.611556 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 419)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 391
+..^....yY.
+...E.....@................l....NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af0
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af0
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:34:22.611557 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 478)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 450
+..^....yY.
+...E.....@....k...........l....NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: urn:schemas-upnp-org:device:WANConnectionDevice:1
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af2::urn:schemas-upnp-org:device:WANConnectionDevice:1
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:34:22.611684 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 419)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 391
+..^....yY.
+...E.....@................l....NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af2
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af2
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:34:22.611685 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 458)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 430
+..^....yY.
+...E.....@................l...	NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: urn:schemas-upnp-org:device:WANDevice:1
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af1::urn:schemas-upnp-org:device:WANDevice:1
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:34:22.611870 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 419)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 391
+..^....yY.
+...E.....@................l....NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af1
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af1
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:34:22.611871 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 490)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 462
+..^....yY.
+...E.....@...._...........l...BNOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: urn:schemas-upnp-org:service:WANCommonInterfaceConfig:1
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af1::urn:schemas-upnp-org:service:WANCommonInterfaceConfig:1
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:34:22.612120 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 472)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 444
+..^....yY.
+...E.....@....q...........l..J.NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: urn:schemas-upnp-org:service:WANIPConnection:1
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af2::urn:schemas-upnp-org:service:WANIPConnection:1
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:34:22.612121 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 474)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 446
+..^....yY.
+...E.....@....o...........l..c.NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: urn:schemas-upnp-org:service:WANPPPConnection:1
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af2::urn:schemas-upnp-org:service:WANPPPConnection:1
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:34:22.612121 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 474)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 446
+..^....yY.
+...E.....@....o...........l...XNOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: urn:schemas-upnp-org:service:Layer3Forwarding:1
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af0::urn:schemas-upnp-org:service:Layer3Forwarding:1
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:34:22.862781 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 474)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 446
+..^....yY.
+...E.....@....o...........l...XNOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: urn:schemas-upnp-org:service:Layer3Forwarding:1
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af0::urn:schemas-upnp-org:service:Layer3Forwarding:1
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:34:22.862783 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 474)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 446
+..^....yY.
+...E.....@....o...........l..c.NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: urn:schemas-upnp-org:service:WANPPPConnection:1
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af2::urn:schemas-upnp-org:service:WANPPPConnection:1
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:34:22.862784 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 472)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 444
+..^....yY.
+...E.....@....q...........l..J.NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: urn:schemas-upnp-org:service:WANIPConnection:1
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af2::urn:schemas-upnp-org:service:WANIPConnection:1
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:34:22.862906 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 490)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 462
+..^....yY.
+...E.....@...._...........l...BNOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: urn:schemas-upnp-org:service:WANCommonInterfaceConfig:1
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af1::urn:schemas-upnp-org:service:WANCommonInterfaceConfig:1
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:34:22.862907 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 419)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 391
+..^....yY.
+...E.....@................l....NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af1
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af1
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:34:22.862908 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 458)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 430
+..^....yY.
+...E.....@................l...	NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: urn:schemas-upnp-org:device:WANDevice:1
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af1::urn:schemas-upnp-org:device:WANDevice:1
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:34:22.862908 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 419)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 391
+..^....yY.
+...E.....@................l....NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af2
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af2
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:34:22.863131 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 478)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 450
+..^....yY.
+...E.....@....k...........l....NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: urn:schemas-upnp-org:device:WANConnectionDevice:1
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af2::urn:schemas-upnp-org:device:WANConnectionDevice:1
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:34:22.863132 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 419)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 391
+..^....yY.
+...E.....@................l....NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af0
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af0
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:34:22.863132 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 482)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 454
+..^....yY.
+...E.....@....g...........l.._.NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: urn:schemas-upnp-org:device:InternetGatewayDevice:1
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af0::urn:schemas-upnp-org:device:InternetGatewayDevice:1
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:34:22.863133 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 410)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 382
+..^....yY.
+...E.....@................l....NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: upnp:rootdevice
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af0::upnp:rootdevice
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:34:33.203944 IP (tos 0x0, ttl 2, id 53359, offset 0, flags [DF], proto UDP (17), length 319)
+    amazon-60d8ad8cd.hdus36b.local.36770 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 291
+..^......Y....E..?.o@....4...g.......l.+..NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+Location: http://192.168.1.103:3600/ssdp/device-desc.xml
+Cache-Control: max-age=1800
+Server: UPnP/1.0 DLNADOC/1.50 AirReceiver/1.0.5.13
+NTS: ssdp:alive
+USN: uuid:98747d42-ddfd-47ba-bdd4-94d396568c1f::upnp:rootdevice
+NT: upnp:rootdevice
+
+
+21:34:33.254303 IP (tos 0x0, ttl 2, id 53360, offset 0, flags [DF], proto UDP (17), length 328)
+    amazon-60d8ad8cd.hdus36b.local.36770 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 300
+..^......Y....E..H.p@....*...g.......l.4..NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+Location: http://192.168.1.103:3600/ssdp/device-desc.xml
+Cache-Control: max-age=1800
+Server: UPnP/1.0 DLNADOC/1.50 AirReceiver/1.0.5.13
+NTS: ssdp:alive
+USN: uuid:98747d42-ddfd-47ba-bdd4-94d396568c1f
+NT: uuid:98747d42-ddfd-47ba-bdd4-94d396568c1f
+
+
+21:34:33.304723 IP (tos 0x0, ttl 2, id 53363, offset 0, flags [DF], proto UDP (17), length 365)
+    amazon-60d8ad8cd.hdus36b.local.36770 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 337
+..^......Y....E..m.s@........g.......l.Y..NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+Location: http://192.168.1.103:3600/ssdp/device-desc.xml
+Cache-Control: max-age=1800
+Server: UPnP/1.0 DLNADOC/1.50 AirReceiver/1.0.5.13
+NTS: ssdp:alive
+USN: uuid:98747d42-ddfd-47ba-bdd4-94d396568c1f::urn:dial-multiscreen-org:device:dial:1
+NT: urn:dial-multiscreen-org:device:dial:1
+
+
+21:34:33.382835 IP (tos 0x0, ttl 2, id 53365, offset 0, flags [DF], proto UDP (17), length 367)
+    amazon-60d8ad8cd.hdus36b.local.36770 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 339
+..^......Y....E..o.u@........g.......l.[(sNOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+Location: http://192.168.1.103:3600/ssdp/device-desc.xml
+Cache-Control: max-age=1800
+Server: UPnP/1.0 DLNADOC/1.50 AirReceiver/1.0.5.13
+NTS: ssdp:alive
+USN: uuid:98747d42-ddfd-47ba-bdd4-94d396568c1f::urn:dial-multiscreen-org:service:dial:1
+NT: urn:dial-multiscreen-org:service:dial:1
+
+
+21:34:39.354138 IP (tos 0x0, ttl 2, id 53925, offset 0, flags [DF], proto UDP (17), length 299)
+    amazon-60d8ad8cd.hdus36b.local.42837 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 271
+..^......Y....E..+..@........g.....U.l....NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+Location: http://192.168.1.103:3500/
+Cache-Control: max-age=1800
+Server: UPnP/1.0 DLNADOC/1.50 AirReceiver/1.0.5.13
+NTS: ssdp:alive
+USN: uuid:3125d70f-76d6-4171-a5db-2ba0c7bbef36::upnp:rootdevice
+NT: upnp:rootdevice
+
+
+21:34:39.404808 IP (tos 0x0, ttl 2, id 53930, offset 0, flags [DF], proto UDP (17), length 308)
+    amazon-60d8ad8cd.hdus36b.local.42837 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 280
+..^......Y....E..4..@........g.....U.l. ..NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+Location: http://192.168.1.103:3500/
+Cache-Control: max-age=1800
+Server: UPnP/1.0 DLNADOC/1.50 AirReceiver/1.0.5.13
+NTS: ssdp:alive
+USN: uuid:3125d70f-76d6-4171-a5db-2ba0c7bbef36
+NT: uuid:3125d70f-76d6-4171-a5db-2ba0c7bbef36
+
+
+21:34:39.454820 IP (tos 0x0, ttl 2, id 53932, offset 0, flags [DF], proto UDP (17), length 355)
+    amazon-60d8ad8cd.hdus36b.local.42837 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 327
+..^......Y....E..c..@........g.....U.l.O..NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+Location: http://192.168.1.103:3500/
+Cache-Control: max-age=1800
+Server: UPnP/1.0 DLNADOC/1.50 AirReceiver/1.0.5.13
+NTS: ssdp:alive
+USN: uuid:3125d70f-76d6-4171-a5db-2ba0c7bbef36::urn:schemas-upnp-org:device:MediaRenderer:1
+NT: urn:schemas-upnp-org:device:MediaRenderer:1
+
+
+21:34:39.504974 IP (tos 0x0, ttl 2, id 53935, offset 0, flags [DF], proto UDP (17), length 353)
+    amazon-60d8ad8cd.hdus36b.local.42837 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 325
+..^......Y....E..a..@........g.....U.l.Ml.NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+Location: http://192.168.1.103:3500/
+Cache-Control: max-age=1800
+Server: UPnP/1.0 DLNADOC/1.50 AirReceiver/1.0.5.13
+NTS: ssdp:alive
+USN: uuid:3125d70f-76d6-4171-a5db-2ba0c7bbef36::urn:schemas-upnp-org:service:AVTransport:1
+NT: urn:schemas-upnp-org:service:AVTransport:1
+
+
+21:34:39.559789 IP (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 297)
+    192.168.122.1.61000 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 269
+..^.....yn....E..)..@...K ..z......H.l....NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=1800
+LOCATION: http://192.168.122.1:61000/scalarwebapi_dd.xml
+NT: upnp:rootdevice
+NTS: ssdp:alive
+SERVER: UPnP/1.0 MINT-X/1.8.1
+USN: uuid:000000001000-1010-8000-CEC0796EE299::upnp:rootdevice
+
+
+21:34:39.560335 IP (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 305)
+    192.168.122.1.61000 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 277
+..^.....yn....E..1..@...K...z......H.l...:NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=1800
+LOCATION: http://192.168.122.1:61000/scalarwebapi_dd.xml
+NT: uuid:000000001000-1010-8000-CEC0796EE299
+NTS: ssdp:alive
+SERVER: UPnP/1.0 MINT-X/1.8.1
+USN: uuid:000000001000-1010-8000-CEC0796EE299
+
+
+21:34:39.566817 IP (tos 0x0, ttl 2, id 53938, offset 0, flags [DF], proto UDP (17), length 365)
+    amazon-60d8ad8cd.hdus36b.local.42837 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 337
+..^......Y....E..m..@........g.....U.l.Y..NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+Location: http://192.168.1.103:3500/
+Cache-Control: max-age=1800
+Server: UPnP/1.0 DLNADOC/1.50 AirReceiver/1.0.5.13
+NTS: ssdp:alive
+USN: uuid:3125d70f-76d6-4171-a5db-2ba0c7bbef36::urn:schemas-upnp-org:service:ConnectionManager:1
+NT: urn:schemas-upnp-org:service:ConnectionManager:1
+
+
+21:34:39.612377 IP (tos 0x0, ttl 2, id 53939, offset 0, flags [DF], proto UDP (17), length 363)
+    amazon-60d8ad8cd.hdus36b.local.42837 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 335
+..^......Y....E..k..@........g.....U.l.W..NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+Location: http://192.168.1.103:3500/
+Cache-Control: max-age=1800
+Server: UPnP/1.0 DLNADOC/1.50 AirReceiver/1.0.5.13
+NTS: ssdp:alive
+USN: uuid:3125d70f-76d6-4171-a5db-2ba0c7bbef36::urn:schemas-upnp-org:service:RenderingControl:1
+NT: urn:schemas-upnp-org:service:RenderingControl:1
+
+
+21:34:39.662660 IP (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 337)
+    192.168.122.1.61000 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 309
+..^.....yn....E..Q..@...J...z......H.l.=U.NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=1800
+LOCATION: http://192.168.122.1:61000/scalarwebapi_dd.xml
+NT: urn:schemas-upnp-org:device:Basic:1
+NTS: ssdp:alive
+SERVER: UPnP/1.0 MINT-X/1.8.1
+USN: uuid:000000001000-1010-8000-CEC0796EE299::urn:schemas-upnp-org:device:Basic:1
+
+
+21:34:39.663296 IP (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 353)
+    192.168.122.1.61000 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 325
+..^.....yn....E..a..@...J...z......H.l.M..NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=1800
+LOCATION: http://192.168.122.1:61000/scalarwebapi_dd.xml
+NT: urn:schemas-sony-com:service:ScalarWebAPI:1
+NTS: ssdp:alive
+SERVER: UPnP/1.0 MINT-X/1.8.1
+USN: uuid:000000001000-1010-8000-CEC0796EE299::urn:schemas-sony-com:service:ScalarWebAPI:1
+
+
+21:34:39.664032 IP (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 357)
+    192.168.122.1.61000 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 329
+..^.....yn....E..e..@...J...z......H.l.Q.BNOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=1800
+LOCATION: http://192.168.122.1:61000/scalarwebapi_dd.xml
+NT: urn:schemas-sony-com:service:DigitalImaging:1
+NTS: ssdp:alive
+SERVER: UPnP/1.0 MINT-X/1.8.1
+USN: uuid:000000001000-1010-8000-CEC0796EE299::urn:schemas-sony-com:service:DigitalImaging:1
+
+
+21:34:39.764407 IP (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 297)
+    192.168.122.1.61000 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 269
+..^.....yn....E..)..@...K ..z......H.l....NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=1800
+LOCATION: http://192.168.122.1:61000/scalarwebapi_dd.xml
+NT: upnp:rootdevice
+NTS: ssdp:alive
+SERVER: UPnP/1.0 MINT-X/1.8.1
+USN: uuid:000000001000-1010-8000-CEC0796EE299::upnp:rootdevice
+
+
+21:34:39.866852 IP (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 305)
+    192.168.122.1.61000 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 277
+..^.....yn....E..1..@...K...z......H.l...:NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=1800
+LOCATION: http://192.168.122.1:61000/scalarwebapi_dd.xml
+NT: uuid:000000001000-1010-8000-CEC0796EE299
+NTS: ssdp:alive
+SERVER: UPnP/1.0 MINT-X/1.8.1
+USN: uuid:000000001000-1010-8000-CEC0796EE299
+
+
+21:34:39.867542 IP (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 337)
+    192.168.122.1.61000 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 309
+..^.....yn....E..Q..@...J...z......H.l.=U.NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=1800
+LOCATION: http://192.168.122.1:61000/scalarwebapi_dd.xml
+NT: urn:schemas-upnp-org:device:Basic:1
+NTS: ssdp:alive
+SERVER: UPnP/1.0 MINT-X/1.8.1
+USN: uuid:000000001000-1010-8000-CEC0796EE299::urn:schemas-upnp-org:device:Basic:1
+
+
+21:34:39.868166 IP (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 353)
+    192.168.122.1.61000 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 325
+..^.....yn....E..a..@...J...z......H.l.M..NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=1800
+LOCATION: http://192.168.122.1:61000/scalarwebapi_dd.xml
+NT: urn:schemas-sony-com:service:ScalarWebAPI:1
+NTS: ssdp:alive
+SERVER: UPnP/1.0 MINT-X/1.8.1
+USN: uuid:000000001000-1010-8000-CEC0796EE299::urn:schemas-sony-com:service:ScalarWebAPI:1
+
+
+21:34:39.868794 IP (tos 0x0, ttl 4, id 0, offset 0, flags [DF], proto UDP (17), length 357)
+    192.168.122.1.61000 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 329
+..^.....yn....E..e..@...J...z......H.l.Q.BNOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=1800
+LOCATION: http://192.168.122.1:61000/scalarwebapi_dd.xml
+NT: urn:schemas-sony-com:service:DigitalImaging:1
+NTS: ssdp:alive
+SERVER: UPnP/1.0 MINT-X/1.8.1
+USN: uuid:000000001000-1010-8000-CEC0796EE299::urn:schemas-sony-com:service:DigitalImaging:1
+
+
+21:34:42.109171 IP (tos 0x0, ttl 4, id 32680, offset 0, flags [none], proto UDP (17), length 365)
+    kellerplatte.hdus36b.local.53808 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 337
+..^.......^...E..m.................0.l.Y..NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=100
+LOCATION: http://192.168.1.163:49152/nasdevice.xml
+NT: upnp:rootdevice
+NTS: ssdp:alive
+SERVER: Linux/2.6.32.11-svn70860, UPnP/1.0, Portable SDK for UPnP devices/1.6.6
+X-User-Agent: redsonic
+USN: uuid:73656761-7465-7375-636b-0090a9b35e88::upnp:rootdevice
+
+
+21:34:42.209707 IP (tos 0x0, ttl 4, id 32681, offset 0, flags [none], proto UDP (17), length 374)
+    kellerplatte.hdus36b.local.53808 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 346
+..^.......^...E..v.................0.l.bdTNOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=100
+LOCATION: http://192.168.1.163:49152/nasdevice.xml
+NT: uuid:73656761-7465-7375-636b-0090a9b35e88
+NTS: ssdp:alive
+SERVER: Linux/2.6.32.11-svn70860, UPnP/1.0, Portable SDK for UPnP devices/1.6.6
+X-User-Agent: redsonic
+USN: uuid:73656761-7465-7375-636b-0090a9b35e88
+
+
+21:34:42.309859 IP (tos 0x0, ttl 4, id 32682, offset 0, flags [none], proto UDP (17), length 405)
+    kellerplatte.hdus36b.local.53808 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 377
+..^.......^...E..........h.........0.l..t.NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=100
+LOCATION: http://192.168.1.163:49152/nasdevice.xml
+NT: urn:schemas-upnp-org:device:WdNAS:1
+NTS: ssdp:alive
+SERVER: Linux/2.6.32.11-svn70860, UPnP/1.0, Portable SDK for UPnP devices/1.6.6
+X-User-Agent: redsonic
+USN: uuid:73656761-7465-7375-636b-0090a9b35e88::urn:schemas-upnp-org:device:WdNAS:1
+
+
+21:34:42.410240 IP (tos 0x0, ttl 4, id 32683, offset 0, flags [none], proto UDP (17), length 415)
+    kellerplatte.hdus36b.local.40055 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 387
+..^.......^...E..........].........w.l....NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=100
+LOCATION: http://192.168.1.163:49152/nasdevice.xml
+NT: urn:schemas-microsoft-com:service:NULL:1
+NTS: ssdp:alive
+SERVER: Linux/2.6.32.11-svn70860, UPnP/1.0, Portable SDK for UPnP devices/1.6.6
+X-User-Agent: redsonic
+USN: uuid:73656761-7465-7375-636b-0090a9b35e88::urn:schemas-microsoft-com:service:NULL:1
+
+
+21:34:44.744847 IP (tos 0x0, ttl 1, id 15095, offset 0, flags [DF], proto UDP (17), length 195)
+    raspberry.hdus36b.local.53787 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 167
+..^.....2
+yT..E...:.@....[...5.......l..Z.M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Chromium/84.0.4147.141 Linux
+
+
+21:34:45.740619 IP (tos 0x0, ttl 1, id 15156, offset 0, flags [DF], proto UDP (17), length 195)
+    raspberry.hdus36b.local.53787 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 167
+..^.....2
+yT..E...;4@........5.......l..Z.M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Chromium/84.0.4147.141 Linux
+
+
+21:34:46.740506 IP (tos 0x0, ttl 1, id 15218, offset 0, flags [DF], proto UDP (17), length 195)
+    raspberry.hdus36b.local.53787 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 167
+..^.....2
+yT..E...;r@........5.......l..Z.M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Chromium/84.0.4147.141 Linux
+
+
+21:34:47.741508 IP (tos 0x0, ttl 1, id 15250, offset 0, flags [DF], proto UDP (17), length 195)
+    raspberry.hdus36b.local.53787 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 167
+..^.....2
+yT..E...;.@........5.......l..Z.M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Chromium/84.0.4147.141 Linux
+
+
+21:34:56.645301 IP (tos 0x0, ttl 4, id 32684, offset 0, flags [none], proto UDP (17), length 332)
+    kellerplatte.hdus36b.local.ssdp > 239.255.255.250.ssdp: [udp sum ok] UDP, length 304
+..^.......^...E..L.................l.l.8Z.NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=1810
+LOCATION: http://192.168.1.163:9000/DeviceDescription.xml
+NT: uuid:7076436f-6e65-1063-8074-0090a9b35e88
+NTS: ssdp:alive
+SERVER: Linux/2.x.x, UPnP/1.0, pvConnect UPnP SDK/1.0
+USN: uuid:7076436f-6e65-1063-8074-0090a9b35e88
+
+
+21:34:56.656905 IP (tos 0x0, ttl 4, id 32685, offset 0, flags [none], proto UDP (17), length 323)
+    kellerplatte.hdus36b.local.ssdp > 239.255.255.250.ssdp: [udp sum ok] UDP, length 295
+..^.......^...E..C.................l.l./..NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=1810
+LOCATION: http://192.168.1.163:9000/DeviceDescription.xml
+NT: upnp:rootdevice
+NTS: ssdp:alive
+SERVER: Linux/2.x.x, UPnP/1.0, pvConnect UPnP SDK/1.0
+USN: uuid:7076436f-6e65-1063-8074-0090a9b35e88::upnp:rootdevice
+
+
+21:34:56.667627 IP (tos 0x0, ttl 4, id 32686, offset 0, flags [none], proto UDP (17), length 375)
+    kellerplatte.hdus36b.local.ssdp > 239.255.255.250.ssdp: [udp sum ok] UDP, length 347
+..^.......^...E..w.................l.l.c.	NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=1810
+LOCATION: http://192.168.1.163:9000/DeviceDescription.xml
+NT: urn:schemas-upnp-org:device:MediaServer:1
+NTS: ssdp:alive
+SERVER: Linux/2.x.x, UPnP/1.0, pvConnect UPnP SDK/1.0
+USN: uuid:7076436f-6e65-1063-8074-0090a9b35e88::urn:schemas-upnp-org:device:MediaServer:1
+
+
+21:34:56.677900 IP (tos 0x0, ttl 4, id 32687, offset 0, flags [none], proto UDP (17), length 387)
+    kellerplatte.hdus36b.local.ssdp > 239.255.255.250.ssdp: [udp sum ok] UDP, length 359
+..^.......^...E..........u.........l.l.o.4NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=1810
+LOCATION: http://192.168.1.163:9000/DeviceDescription.xml
+NT: urn:schemas-upnp-org:service:ContentDirectory:1
+NTS: ssdp:alive
+SERVER: Linux/2.x.x, UPnP/1.0, pvConnect UPnP SDK/1.0
+USN: uuid:7076436f-6e65-1063-8074-0090a9b35e88::urn:schemas-upnp-org:service:ContentDirectory:1
+
+
+21:34:56.690641 IP (tos 0x0, ttl 4, id 32688, offset 0, flags [none], proto UDP (17), length 389)
+    kellerplatte.hdus36b.local.ssdp > 239.255.255.250.ssdp: [udp sum ok] UDP, length 361
+..^.......^...E..........r.........l.l.q..NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=1810
+LOCATION: http://192.168.1.163:9000/DeviceDescription.xml
+NT: urn:schemas-upnp-org:service:ConnectionManager:1
+NTS: ssdp:alive
+SERVER: Linux/2.x.x, UPnP/1.0, pvConnect UPnP SDK/1.0
+USN: uuid:7076436f-6e65-1063-8074-0090a9b35e88::urn:schemas-upnp-org:service:ConnectionManager:1
+
+
+21:34:56.700960 IP (tos 0x0, ttl 4, id 32689, offset 0, flags [none], proto UDP (17), length 403)
+    kellerplatte.hdus36b.local.ssdp > 239.255.255.250.ssdp: [udp sum ok] UDP, length 375
+..^.......^...E..........c.........l.l...)NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=1810
+LOCATION: http://192.168.1.163:9000/DeviceDescription.xml
+NT: urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+NTS: ssdp:alive
+SERVER: Linux/2.x.x, UPnP/1.0, pvConnect UPnP SDK/1.0
+USN: uuid:7076436f-6e65-1063-8074-0090a9b35e88::urn:microsoft.com:service:X_MS_MediaReceiverRegistrar:1
+
+
+21:35:02.108809 IP (tos 0x0, ttl 4, id 32690, offset 0, flags [none], proto UDP (17), length 365)
+    kellerplatte.hdus36b.local.58214 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 337
+..^.......^...E..m.................f.l.Y..NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=100
+LOCATION: http://192.168.1.163:49152/nasdevice.xml
+NT: upnp:rootdevice
+NTS: ssdp:alive
+SERVER: Linux/2.6.32.11-svn70860, UPnP/1.0, Portable SDK for UPnP devices/1.6.6
+X-User-Agent: redsonic
+USN: uuid:73656761-7465-7375-636b-0090a9b35e88::upnp:rootdevice
+
+
+21:35:02.209345 IP (tos 0x0, ttl 4, id 32691, offset 0, flags [none], proto UDP (17), length 374)
+    kellerplatte.hdus36b.local.58214 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 346
+..^.......^...E..v.......~.........f.l.bS.NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=100
+LOCATION: http://192.168.1.163:49152/nasdevice.xml
+NT: uuid:73656761-7465-7375-636b-0090a9b35e88
+NTS: ssdp:alive
+SERVER: Linux/2.6.32.11-svn70860, UPnP/1.0, Portable SDK for UPnP devices/1.6.6
+X-User-Agent: redsonic
+USN: uuid:73656761-7465-7375-636b-0090a9b35e88
+
+
+21:35:02.309998 IP (tos 0x0, ttl 4, id 32692, offset 0, flags [none], proto UDP (17), length 405)
+    kellerplatte.hdus36b.local.58214 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 377
+..^.......^...E..........^.........f.l..c.NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=100
+LOCATION: http://192.168.1.163:49152/nasdevice.xml
+NT: urn:schemas-upnp-org:device:WdNAS:1
+NTS: ssdp:alive
+SERVER: Linux/2.6.32.11-svn70860, UPnP/1.0, Portable SDK for UPnP devices/1.6.6
+X-User-Agent: redsonic
+USN: uuid:73656761-7465-7375-636b-0090a9b35e88::urn:schemas-upnp-org:device:WdNAS:1
+
+
+21:35:02.410250 IP (tos 0x0, ttl 4, id 32693, offset 0, flags [none], proto UDP (17), length 415)
+    kellerplatte.hdus36b.local.34947 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 387
+..^.......^...E..........S...........l....NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=100
+LOCATION: http://192.168.1.163:49152/nasdevice.xml
+NT: urn:schemas-microsoft-com:service:NULL:1
+NTS: ssdp:alive
+SERVER: Linux/2.6.32.11-svn70860, UPnP/1.0, Portable SDK for UPnP devices/1.6.6
+X-User-Agent: redsonic
+USN: uuid:73656761-7465-7375-636b-0090a9b35e88::urn:schemas-microsoft-com:service:NULL:1
+
+
+21:35:03.382029 IP (tos 0x0, ttl 1, id 57679, offset 0, flags [none], proto UDP (17), length 203)
+    192.168.122.139.59334 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 175
+..^.......Pw..E....O........z........l....M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/90.0.4430.212 Mac OS X
+
+
+21:35:03.382140 IP (tos 0x0, ttl 1, id 792, offset 0, flags [none], proto UDP (17), length 203)
+    c02sk1j5g8wm.hdus36b.local.60249 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 175
+..^.....L.._..E....................Y.l..~9M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/90.0.4430.212 Mac OS X
+
+
+21:35:03.609184 IP (tos 0x0, ttl 2, id 54448, offset 0, flags [DF], proto UDP (17), length 319)
+    amazon-60d8ad8cd.hdus36b.local.38426 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 291
+..^......Y....E..?..@........g.......l.+..NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+Location: http://192.168.1.103:3600/ssdp/device-desc.xml
+Cache-Control: max-age=1800
+Server: UPnP/1.0 DLNADOC/1.50 AirReceiver/1.0.5.13
+NTS: ssdp:alive
+USN: uuid:98747d42-ddfd-47ba-bdd4-94d396568c1f::upnp:rootdevice
+NT: upnp:rootdevice
+
+
+21:35:03.659663 IP (tos 0x0, ttl 2, id 54449, offset 0, flags [DF], proto UDP (17), length 328)
+    amazon-60d8ad8cd.hdus36b.local.38426 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 300
+..^......Y....E..H..@........g.......l.4.#NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+Location: http://192.168.1.103:3600/ssdp/device-desc.xml
+Cache-Control: max-age=1800
+Server: UPnP/1.0 DLNADOC/1.50 AirReceiver/1.0.5.13
+NTS: ssdp:alive
+USN: uuid:98747d42-ddfd-47ba-bdd4-94d396568c1f
+NT: uuid:98747d42-ddfd-47ba-bdd4-94d396568c1f
+
+
+21:35:03.715154 IP (tos 0x0, ttl 2, id 54454, offset 0, flags [DF], proto UDP (17), length 365)
+    amazon-60d8ad8cd.hdus36b.local.38426 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 337
+..^......Y....E..m..@........g.......l.Y..NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+Location: http://192.168.1.103:3600/ssdp/device-desc.xml
+Cache-Control: max-age=1800
+Server: UPnP/1.0 DLNADOC/1.50 AirReceiver/1.0.5.13
+NTS: ssdp:alive
+USN: uuid:98747d42-ddfd-47ba-bdd4-94d396568c1f::urn:dial-multiscreen-org:device:dial:1
+NT: urn:dial-multiscreen-org:device:dial:1
+
+
+21:35:03.764640 IP (tos 0x0, ttl 2, id 54459, offset 0, flags [DF], proto UDP (17), length 367)
+    amazon-60d8ad8cd.hdus36b.local.38426 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 339
+..^......Y....E..o..@........g.......l.[!.NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+Location: http://192.168.1.103:3600/ssdp/device-desc.xml
+Cache-Control: max-age=1800
+Server: UPnP/1.0 DLNADOC/1.50 AirReceiver/1.0.5.13
+NTS: ssdp:alive
+USN: uuid:98747d42-ddfd-47ba-bdd4-94d396568c1f::urn:dial-multiscreen-org:service:dial:1
+NT: urn:dial-multiscreen-org:service:dial:1
+
+
+21:35:04.382929 IP (tos 0x0, ttl 1, id 19999, offset 0, flags [none], proto UDP (17), length 203)
+    192.168.122.139.59334 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 175
+..^.......Pw..E...N.....?...z........l....M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/90.0.4430.212 Mac OS X
+
+
+21:35:04.382960 IP (tos 0x0, ttl 1, id 3954, offset 0, flags [none], proto UDP (17), length 203)
+    c02sk1j5g8wm.hdus36b.local.60249 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 175
+..^.....L.._..E....r.....\.........Y.l..~9M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/90.0.4430.212 Mac OS X
+
+
+21:35:05.384125 IP (tos 0x0, ttl 1, id 23457, offset 0, flags [none], proto UDP (17), length 203)
+    192.168.122.139.59334 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 175
+..^.......Pw..E...[.....2S..z........l....M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/90.0.4430.212 Mac OS X
+
+
+21:35:05.384184 IP (tos 0x0, ttl 1, id 23658, offset 0, flags [none], proto UDP (17), length 203)
+    c02sk1j5g8wm.hdus36b.local.60249 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 175
+..^.....L.._..E...\j.....d.........Y.l..~9M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/90.0.4430.212 Mac OS X
+
+
+21:35:06.385447 IP (tos 0x0, ttl 1, id 9534, offset 0, flags [none], proto UDP (17), length 203)
+    192.168.122.139.59334 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 175
+..^.......Pw..E...%>....h...z........l....M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/90.0.4430.212 Mac OS X
+
+
+21:35:06.385503 IP (tos 0x0, ttl 1, id 58397, offset 0, flags [none], proto UDP (17), length 203)
+    c02sk1j5g8wm.hdus36b.local.60249 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 175
+..^.....L.._..E........."..........Y.l..~9M-SEARCH * HTTP/1.1
+HOST: 239.255.255.250:1900
+MAN: "ssdp:discover"
+MX: 1
+ST: urn:dial-multiscreen-org:service:dial:1
+USER-AGENT: Google Chrome/90.0.4430.212 Mac OS X
+
+
+21:35:09.964079 IP (tos 0x0, ttl 2, id 54975, offset 0, flags [DF], proto UDP (17), length 299)
+    amazon-60d8ad8cd.hdus36b.local.34761 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 271
+..^......Y....E..+..@........g.......l...*NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+Location: http://192.168.1.103:3500/
+Cache-Control: max-age=1800
+Server: UPnP/1.0 DLNADOC/1.50 AirReceiver/1.0.5.13
+NTS: ssdp:alive
+USN: uuid:3125d70f-76d6-4171-a5db-2ba0c7bbef36::upnp:rootdevice
+NT: upnp:rootdevice
+
+
+21:35:10.015696 IP (tos 0x0, ttl 2, id 54979, offset 0, flags [DF], proto UDP (17), length 308)
+    amazon-60d8ad8cd.hdus36b.local.34761 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 280
+..^......Y....E..4..@........g.......l. .uNOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+Location: http://192.168.1.103:3500/
+Cache-Control: max-age=1800
+Server: UPnP/1.0 DLNADOC/1.50 AirReceiver/1.0.5.13
+NTS: ssdp:alive
+USN: uuid:3125d70f-76d6-4171-a5db-2ba0c7bbef36
+NT: uuid:3125d70f-76d6-4171-a5db-2ba0c7bbef36
+
+
+21:35:10.065893 IP (tos 0x0, ttl 2, id 54981, offset 0, flags [DF], proto UDP (17), length 355)
+    amazon-60d8ad8cd.hdus36b.local.34761 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 327
+..^......Y....E..c..@........g.......l.O..NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+Location: http://192.168.1.103:3500/
+Cache-Control: max-age=1800
+Server: UPnP/1.0 DLNADOC/1.50 AirReceiver/1.0.5.13
+NTS: ssdp:alive
+USN: uuid:3125d70f-76d6-4171-a5db-2ba0c7bbef36::urn:schemas-upnp-org:device:MediaRenderer:1
+NT: urn:schemas-upnp-org:device:MediaRenderer:1
+
+
+21:35:10.122870 IP (tos 0x0, ttl 2, id 54982, offset 0, flags [DF], proto UDP (17), length 353)
+    amazon-60d8ad8cd.hdus36b.local.34761 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 325
+..^......Y....E..a..@........g.......l.M..NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+Location: http://192.168.1.103:3500/
+Cache-Control: max-age=1800
+Server: UPnP/1.0 DLNADOC/1.50 AirReceiver/1.0.5.13
+NTS: ssdp:alive
+USN: uuid:3125d70f-76d6-4171-a5db-2ba0c7bbef36::urn:schemas-upnp-org:service:AVTransport:1
+NT: urn:schemas-upnp-org:service:AVTransport:1
+
+
+21:35:10.168802 IP (tos 0x0, ttl 2, id 54987, offset 0, flags [DF], proto UDP (17), length 365)
+    amazon-60d8ad8cd.hdus36b.local.34761 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 337
+..^......Y....E..m..@........g.......l.Y. NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+Location: http://192.168.1.103:3500/
+Cache-Control: max-age=1800
+Server: UPnP/1.0 DLNADOC/1.50 AirReceiver/1.0.5.13
+NTS: ssdp:alive
+USN: uuid:3125d70f-76d6-4171-a5db-2ba0c7bbef36::urn:schemas-upnp-org:service:ConnectionManager:1
+NT: urn:schemas-upnp-org:service:ConnectionManager:1
+
+
+21:35:10.213778 IP (tos 0x0, ttl 2, id 54990, offset 0, flags [DF], proto UDP (17), length 363)
+    amazon-60d8ad8cd.hdus36b.local.34761 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 335
+..^......Y....E..k..@........g.......l.W..NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+Location: http://192.168.1.103:3500/
+Cache-Control: max-age=1800
+Server: UPnP/1.0 DLNADOC/1.50 AirReceiver/1.0.5.13
+NTS: ssdp:alive
+USN: uuid:3125d70f-76d6-4171-a5db-2ba0c7bbef36::urn:schemas-upnp-org:service:RenderingControl:1
+NT: urn:schemas-upnp-org:service:RenderingControl:1
+
+
+21:35:22.109484 IP (tos 0x0, ttl 4, id 32694, offset 0, flags [none], proto UDP (17), length 365)
+    kellerplatte.hdus36b.local.40153 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 337
+..^.......^...E..m...................l.YD7NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=100
+LOCATION: http://192.168.1.163:49152/nasdevice.xml
+NT: upnp:rootdevice
+NTS: ssdp:alive
+SERVER: Linux/2.6.32.11-svn70860, UPnP/1.0, Portable SDK for UPnP devices/1.6.6
+X-User-Agent: redsonic
+USN: uuid:73656761-7465-7375-636b-0090a9b35e88::upnp:rootdevice
+
+
+21:35:22.210350 IP (tos 0x0, ttl 4, id 32695, offset 0, flags [none], proto UDP (17), length 374)
+    kellerplatte.hdus36b.local.40153 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 346
+..^.......^...E..v.......z...........l.b..NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=100
+LOCATION: http://192.168.1.163:49152/nasdevice.xml
+NT: uuid:73656761-7465-7375-636b-0090a9b35e88
+NTS: ssdp:alive
+SERVER: Linux/2.6.32.11-svn70860, UPnP/1.0, Portable SDK for UPnP devices/1.6.6
+X-User-Agent: redsonic
+USN: uuid:73656761-7465-7375-636b-0090a9b35e88
+
+
+21:35:22.310745 IP (tos 0x0, ttl 4, id 32696, offset 0, flags [none], proto UDP (17), length 405)
+    kellerplatte.hdus36b.local.40153 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 377
+..^.......^...E..........Z...........l...MNOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=100
+LOCATION: http://192.168.1.163:49152/nasdevice.xml
+NT: urn:schemas-upnp-org:device:WdNAS:1
+NTS: ssdp:alive
+SERVER: Linux/2.6.32.11-svn70860, UPnP/1.0, Portable SDK for UPnP devices/1.6.6
+X-User-Agent: redsonic
+USN: uuid:73656761-7465-7375-636b-0090a9b35e88::urn:schemas-upnp-org:device:WdNAS:1
+
+
+21:35:22.411290 IP (tos 0x0, ttl 4, id 32697, offset 0, flags [none], proto UDP (17), length 415)
+    kellerplatte.hdus36b.local.42032 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 387
+..^.......^...E..........O.........0.l...>NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=100
+LOCATION: http://192.168.1.163:49152/nasdevice.xml
+NT: urn:schemas-microsoft-com:service:NULL:1
+NTS: ssdp:alive
+SERVER: Linux/2.6.32.11-svn70860, UPnP/1.0, Portable SDK for UPnP devices/1.6.6
+X-User-Agent: redsonic
+USN: uuid:73656761-7465-7375-636b-0090a9b35e88::urn:schemas-microsoft-com:service:NULL:1
+
+
+21:35:22.613207 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 410)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 382
+..^....yY.
+...E.....@................l....NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: upnp:rootdevice
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af0::upnp:rootdevice
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:35:22.613208 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 482)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 454
+..^....yY.
+...E.....@....g...........l.._.NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: urn:schemas-upnp-org:device:InternetGatewayDevice:1
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af0::urn:schemas-upnp-org:device:InternetGatewayDevice:1
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:35:22.613209 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 419)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 391
+..^....yY.
+...E.....@................l....NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af0
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af0
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:35:22.613210 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 478)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 450
+..^....yY.
+...E.....@....k...........l....NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: urn:schemas-upnp-org:device:WANConnectionDevice:1
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af2::urn:schemas-upnp-org:device:WANConnectionDevice:1
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:35:22.613211 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 419)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 391
+..^....yY.
+...E.....@................l....NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af2
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af2
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:35:22.613304 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 458)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 430
+..^....yY.
+...E.....@................l...	NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: urn:schemas-upnp-org:device:WANDevice:1
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af1::urn:schemas-upnp-org:device:WANDevice:1
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:35:22.613304 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 419)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 391
+..^....yY.
+...E.....@................l....NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af1
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af1
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:35:22.613462 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 490)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 462
+..^....yY.
+...E.....@...._...........l...BNOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: urn:schemas-upnp-org:service:WANCommonInterfaceConfig:1
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af1::urn:schemas-upnp-org:service:WANCommonInterfaceConfig:1
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:35:22.613463 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 472)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 444
+..^....yY.
+...E.....@....q...........l..J.NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: urn:schemas-upnp-org:service:WANIPConnection:1
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af2::urn:schemas-upnp-org:service:WANIPConnection:1
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:35:22.613635 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 474)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 446
+..^....yY.
+...E.....@....o...........l..c.NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: urn:schemas-upnp-org:service:WANPPPConnection:1
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af2::urn:schemas-upnp-org:service:WANPPPConnection:1
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:35:22.613636 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 474)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 446
+..^....yY.
+...E.....@....o...........l...XNOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: urn:schemas-upnp-org:service:Layer3Forwarding:1
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af0::urn:schemas-upnp-org:service:Layer3Forwarding:1
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:35:22.864652 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 474)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 446
+..^....yY.
+...E.....@....o...........l...XNOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: urn:schemas-upnp-org:service:Layer3Forwarding:1
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af0::urn:schemas-upnp-org:service:Layer3Forwarding:1
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:35:22.864654 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 474)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 446
+..^....yY.
+...E.....@....o...........l..c.NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: urn:schemas-upnp-org:service:WANPPPConnection:1
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af2::urn:schemas-upnp-org:service:WANPPPConnection:1
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:35:22.864655 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 472)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 444
+..^....yY.
+...E.....@....q...........l..J.NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: urn:schemas-upnp-org:service:WANIPConnection:1
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af2::urn:schemas-upnp-org:service:WANIPConnection:1
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:35:22.864656 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 490)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 462
+..^....yY.
+...E.....@...._...........l...BNOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: urn:schemas-upnp-org:service:WANCommonInterfaceConfig:1
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af1::urn:schemas-upnp-org:service:WANCommonInterfaceConfig:1
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:35:22.864657 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 419)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 391
+..^....yY.
+...E.....@................l....NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af1
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af1
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:35:22.864658 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 458)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 430
+..^....yY.
+...E.....@................l...	NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: urn:schemas-upnp-org:device:WANDevice:1
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af1::urn:schemas-upnp-org:device:WANDevice:1
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:35:22.864659 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 419)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 391
+..^....yY.
+...E.....@................l....NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af2
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af2
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:35:22.864772 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 478)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 450
+..^....yY.
+...E.....@....k...........l....NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: urn:schemas-upnp-org:device:WANConnectionDevice:1
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af2::urn:schemas-upnp-org:device:WANConnectionDevice:1
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:35:22.864774 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 419)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 391
+..^....yY.
+...E.....@................l....NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af0
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af0
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:35:22.864775 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 482)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 454
+..^....yY.
+...E.....@....g...........l.._.NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: urn:schemas-upnp-org:device:InternetGatewayDevice:1
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af0::urn:schemas-upnp-org:device:InternetGatewayDevice:1
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:35:22.864776 IP (tos 0x0, ttl 2, id 0, offset 0, flags [DF], proto UDP (17), length 410)
+    router.asus.com.39851 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 382
+..^....yY.
+...E.....@................l....NOTIFY * HTTP/1.1
+HOST: 239.255.255.250:1900
+CACHE-CONTROL: max-age=120
+LOCATION: http://192.168.1.1:56632/rootDesc.xml
+SERVER: AsusWRT/3.0.0.4 UPnP/1.1 MiniUPnPd/1.9
+NT: upnp:rootdevice
+USN: uuid:3ddcd1d3-2380-45f5-b069-f07959d50af0::upnp:rootdevice
+NTS: ssdp:alive
+OPT: "http://schemas.upnp.org/upnp/1/0/"; ns=01
+01-NLS: 1
+BOOTID.UPNP.ORG: 1
+CONFIGID.UPNP.ORG: 1337
+
+
+21:35:34.014448 IP (tos 0x0, ttl 2, id 55336, offset 0, flags [DF], proto UDP (17), length 319)
+    amazon-60d8ad8cd.hdus36b.local.58315 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 291
+..^......Y....E..?.(@....{...g.......l.+.aNOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+Location: http://192.168.1.103:3600/ssdp/device-desc.xml
+Cache-Control: max-age=1800
+Server: UPnP/1.0 DLNADOC/1.50 AirReceiver/1.0.5.13
+NTS: ssdp:alive
+USN: uuid:98747d42-ddfd-47ba-bdd4-94d396568c1f::upnp:rootdevice
+NT: upnp:rootdevice
+
+
+21:35:34.064871 IP (tos 0x0, ttl 2, id 55337, offset 0, flags [DF], proto UDP (17), length 328)
+    amazon-60d8ad8cd.hdus36b.local.58315 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 300
+..^......Y....E..H.)@....q...g.......l.4.rNOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+Location: http://192.168.1.103:3600/ssdp/device-desc.xml
+Cache-Control: max-age=1800
+Server: UPnP/1.0 DLNADOC/1.50 AirReceiver/1.0.5.13
+NTS: ssdp:alive
+USN: uuid:98747d42-ddfd-47ba-bdd4-94d396568c1f
+NT: uuid:98747d42-ddfd-47ba-bdd4-94d396568c1f
+
+
+21:35:34.115242 IP (tos 0x0, ttl 2, id 55340, offset 0, flags [DF], proto UDP (17), length 365)
+    amazon-60d8ad8cd.hdus36b.local.58315 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 337
+..^......Y....E..m.,@....I...g.......l.Y3.NOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+Location: http://192.168.1.103:3600/ssdp/device-desc.xml
+Cache-Control: max-age=1800
+Server: UPnP/1.0 DLNADOC/1.50 AirReceiver/1.0.5.13
+NTS: ssdp:alive
+USN: uuid:98747d42-ddfd-47ba-bdd4-94d396568c1f::urn:dial-multiscreen-org:device:dial:1
+NT: urn:dial-multiscreen-org:device:dial:1
+
+
+21:35:34.165626 IP (tos 0x0, ttl 2, id 55343, offset 0, flags [DF], proto UDP (17), length 367)
+    amazon-60d8ad8cd.hdus36b.local.58315 > 239.255.255.250.ssdp: [udp sum ok] UDP, length 339
+..^......Y....E..o./@....D...g.......l.[.INOTIFY * HTTP/1.1
+Host: 239.255.255.250:1900
+Location: http://192.168.1.103:3600/ssdp/device-desc.xml
+Cache-Control: max-age=1800
+Server: UPnP/1.0 DLNADOC/1.50 AirReceiver/1.0.5.13
+NTS: ssdp:alive
+USN: uuid:98747d42-ddfd-47ba-bdd4-94d396568c1f::urn:dial-multiscreen-org:service:dial:1
+NT: urn:dial-multiscreen-org:service:dial:1
+
+
+
